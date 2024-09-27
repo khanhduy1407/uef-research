@@ -43,7 +43,7 @@ export const NetworkMapContainer = () => {
                         transform="translate(-111.67971801757812,-16.237314224243164)" rx="5"
                         ry="5"/>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">United
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>United
                     States (No State Affiliation Provided)
                   </text>
                 </g>
@@ -52,20 +52,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(234.11906217659003,115.0640169293626)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="6.187923896519407" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-22.187923896519408)">
                   <rect className="country-background" width="134.0680389404297"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-67.03401947021484,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Minnesota,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Minnesota,
                     United States
                   </text>
                 </g>
@@ -74,20 +74,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(201.8719225844298,152.59334554765948)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="6.187923896519407" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-22.187923896519408)">
                   <rect className="country-background" width="141.25711059570312"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-70.62855529785156,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">New
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>New
                     Mexico, United States
                   </text>
                 </g>
@@ -96,19 +96,19 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(222.6818323218086,131.67297874015924)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="6.187923896519407" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-22.187923896519408)">
                   <rect className="country-background" width="127.5058822631836"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-63.7529411315918,-16.237314224243164)" rx="5" ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Nebraska,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor:" middle", opacity: "0"}}>Nebraska,
                     United States
                   </text>
                 </g>
@@ -117,20 +117,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(204.25403521401427,138.7387681446515)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.015756384595355" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.015756384595356)">
                   <rect className="country-background" width="126.08798217773438"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-63.04399108886719,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Colorado,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Colorado,
                     United States
                   </text>
                 </g>
@@ -139,20 +139,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(282.3027159022479,137.77517630147014)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="6.187923896519407" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-22.187923896519408)">
                   <rect className="country-background" width="126.70317840576172"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-63.35158920288086,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Delaware,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Delaware,
                     United States
                   </text>
                 </g>
@@ -161,20 +161,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(278.34587995505154,139.305232690673)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.015756384595355" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.015756384595356)">
                   <rect className="country-background" width="181.1514892578125"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-90.57574462890625,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">District
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>District
                     of Columbia, United States
                   </text>
                 </g>
@@ -183,20 +183,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(238.35392907362908,140.7610311225638)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.843588872671304" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.843588872671305)">
                   <rect className="country-background" width="124.75212097167969"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-62.376060485839844,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Missouri,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Missouri,
                     United States
                   </text>
                 </g>
@@ -205,20 +205,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(258.62165227887584,123.81599133517275)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.843588872671304" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.843588872671305)">
                   <rect className="country-background" width="128.10350799560547"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-64.05175399780273,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Michigan,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Michigan,
                     United States
                   </text>
                 </g>
@@ -227,20 +227,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(292.64248272337534,123.59842767487727)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style{{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="6.187923896519407" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-22.187923896519408)">
                   <rect className="country-background" width="161.5821990966797"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-80.79109954833984,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">New
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>New
                     Hampshire, United States
                   </text>
                 </g>
@@ -249,20 +249,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(263.2942477523151,134.28324131955645)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.511943492900826" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.511943492900826)">
                   <rect className="country-background" width="105.75703430175781"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-52.878517150878906,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Ohio,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Ohio,
                     United States
                   </text>
                 </g>
@@ -271,20 +271,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(245.32695576765946,120.5297977960868)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity:" 0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.500007251393978" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.500007251393978)">
                   <rect className="country-background" width="132.75196075439453"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-66.37598037719727,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Wisconsin,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Wisconsin,
                     United States
                   </text>
                 </g>
@@ -293,20 +293,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(266.0653942721691,174.08505154955714)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.251268049175478" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.25126804917548)">
                   <rect className="country-background" width="115.56509399414062"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-57.78254699707031,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Florida,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Florida,
                     United States
                   </text>
                 </g>
@@ -315,20 +315,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(219.60595131455642,120.42376892164862)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.015756384595355" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.015756384595356)">
                   <rect className="country-background" width="148.15908813476562"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-74.07954406738281,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">South
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>South
                     Dakota, United States
                   </text>
                 </g>
@@ -337,20 +337,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(226.57688361348434,140.59781466877064)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.843588872671304" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.843588872671305)">
                   <rect className="country-background" width="115.13739776611328"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-57.56869888305664,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Kansas,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Kansas,
                     United States
                   </text>
                 </g>
@@ -359,20 +359,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(270.97125300013727,150.01745809004876)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.500007251393978" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.500007251393978)">
                   <rect className="country-background" width="155.16653442382812"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-77.58326721191406,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">North
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>North
                     Carolina, United States
                   </text>
                 </g>
@@ -381,19 +381,19 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(292.78699598544046,129.75922560708455)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="6.187923896519407" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-22.187923896519408)">
                   <rect className="country-background" width="145.4639129638672"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-72.7319564819336,-16.237314224243164)" rx="5" ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Rhode
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Rhode
                     Island, United States
                   </text>
                 </g>
@@ -402,19 +402,19 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(246.9927852722254,134.4113844524947)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.812090680627604" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.812090680627605)">
                   <rect className="country-background" width="114.2468032836914"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-57.1234016418457,-16.237314224243164)" rx="5" ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Illinois,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Illinois,
                     United States
                   </text>
                 </g>
@@ -423,20 +423,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(160.2725234619205,119.3903550371576)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.511943492900826" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.511943492900826)">
                   <rect className="country-background" width="119.47895812988281"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-59.739479064941406,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Oregon,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Oregon,
                     United States
                   </text>
                 </g>
@@ -445,20 +445,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(292.7312327158392,127.78737631699585)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.32708634884971" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display:" none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.32708634884971)">
                   <rect className="country-background" width="152.5709686279297"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-76.28548431396484,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Massachusetts,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Massachusetts,
                     United States
                   </text>
                 </g>
@@ -467,19 +467,19 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(161.72838985747165,108.74608451942584)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.155672243479957" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.155672243479955)">
                   <rect className="country-background" width="141.4058074951172"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-70.7029037475586,-16.237314224243164)" rx="5" ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Washington,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Washington,
                     United States
                   </text>
                 </g>
@@ -488,20 +488,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(283.8117275735222,128.09692182561446)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill:" rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.032258901246612" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.032258901246614)">
                   <rect className="country-background" width="127.76367950439453"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-63.881839752197266,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">New
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>New
                     York, United States
                   </text>
                 </g>
@@ -510,19 +510,19 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(235.96631865690082,128.60870987918815)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.015756384595355" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.015756384595356)">
                   <rect className="country-background" width="104.3039779663086"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-52.1519889831543,-16.237314224243164)" rx="5" ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Iowa,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Iowa,
                     United States
                   </text>
                 </g>
@@ -531,20 +531,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(261.0082154980529,158.43269423611707)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.110091312838957" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.110091312838957)">
                   <rect className="country-background" width="120.65663146972656"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-60.32831573486328,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Georgia,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Georgia,
                     United States
                   </text>
                 </g>
@@ -553,20 +553,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(275.25795617596066,143.07135524721343)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.812090680627604" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.812090680627605)">
                   <rect className="country-background" width="120.79946899414062"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-60.39973449707031,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Virginia,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Virginia,
                     United States
                   </text>
                 </g>
@@ -575,20 +575,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(245.2151674290692,159.11630998763326)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="6.187923896519407" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-22.187923896519408)">
                   <rect className="country-background" width="136.11870574951172"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-68.05935287475586,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Mississippi,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Mississippi,
                     United States
                   </text>
                 </g>
@@ -597,20 +597,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(238.14736935665556,152.23011100804788)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.327839739469926" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display:" none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.327839739469926)">
                   <rect className="country-background" width="125.17618560791016"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-62.58809280395508,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Arkansas,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Arkansas,
                     United States
                   </text>
                 </g>
@@ -619,20 +619,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(188.38768331644684,155.9728335347207)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill:"rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.500007251393978" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.500007251393978)">
                   <rect className="country-background" width="119.04759979248047"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-59.523799896240234,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Arizona,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Arizona,
                     United States
                   </text>
                 </g>
@@ -641,20 +641,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(252.73902003502894,159.0175971846404)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.500007251393978" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.500007251393978)">
                   <rect className="country-background" width="124.19186401367188"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}}height="23.237314224243164"
                         transform="translate(-62.09593200683594,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Alabama,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Alabama,
                     United States
                   </text>
                 </g>
@@ -663,20 +663,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(289.5090058508073,130.08776788013063)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.937923800914906" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.937923800914906)">
                   <rect className="country-background" width="141.01104736328125"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}}height="23.237314224243164"
                         transform="translate(-70.50552368164062,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Connecticut,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Connecticut,
                     United States
                   </text>
                 </g>
@@ -685,19 +685,19 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(268.1870165108934,155.82193443492838)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.500007251393978" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.500007251393978)">
                   <rect className="country-background" width="154.7212371826172"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-77.3606185913086,-16.237314224243164)" rx="5" ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">South
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>South
                     Carolina, United States
                   </text>
                 </g>
@@ -706,20 +706,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(277.7233210108652,133.5821802698755)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: '2', opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.812090680627604" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.812090680627605)">
                   <rect className="country-background" width="144.77841186523438"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-72.38920593261719,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Pennsylvania,
+                        style={{pointerEvents: "none", fill:" rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Pennsylvania,
                     United States
                   </text>
                 </g>
@@ -728,20 +728,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(278.9637265102576,138.71246657868056)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.110091312838957" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.110091312838957)">
                   <rect className="country-background" width="127.82811737060547"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}}height="23.237314224243164"
                         transform="translate(-63.914058685302734,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Maryland,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Maryland,
                     United States
                   </text>
                 </g>
@@ -750,20 +750,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(254.1708008869025,136.02548939536797)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect:" non-scaling-stroke"}}
                         r="6.187923896519407" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-22.187923896519408)">
                   <rect className="country-background" width="118.49463653564453"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-59.247318267822266,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Indiana,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Indiana,
                     United States
                   </text>
                 </g>
@@ -772,20 +772,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(166.50518148725496,148.30796061661022)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.835963044406665" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.835963044406665)">
                   <rect className="country-background" width="129.22258758544922"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-64.61129379272461,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">California,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>California,
                     United States
                   </text>
                 </g>
@@ -794,20 +794,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(258.3831530365908,143.39900750162437)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="6.187923896519407" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-22.187923896519408)">
                   <rect className="country-background" width="125.58997344970703"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-62.794986724853516,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Kentucky,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Kentucky,
                     United States
                   </text>
                 </g>
@@ -816,19 +816,19 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(187.1682217680784,135.1753374675841)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.015756384595355" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.015756384595356)">
                   <rect className="country-background" width="105.4054946899414"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-52.7027473449707,-16.237314224243164)" rx="5" ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Utah,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Utah,
                     United States
                   </text>
                 </g>
@@ -837,20 +837,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(224.35944279882557,164.24166039237343)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.704496263916976" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.704496263916976)">
                   <rect className="country-background" width="108.02083587646484"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-54.01041793823242,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Texas,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Texas,
                     United States
                   </text>
                 </g>
@@ -859,19 +859,19 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(252.89191087750362,149.68285705656962)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.671421312945002" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.671421312945)">
                   <rect className="country-background" width="132.4297103881836"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-66.2148551940918,-16.237314224243164)" rx="5" ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Tennessee,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Tennessee,
                     United States
                   </text>
                 </g>
@@ -880,20 +880,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(173.37558282126798,140.90275250637268)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.015756384595355" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.015756384595356)">
                   <rect className="country-background" width="118.30128479003906"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-59.15064239501953,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Nevada,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Nevada,
                     United States
                   </text>
                 </g>
@@ -902,20 +902,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(239.47207425891926,164.01500051512733)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.500007251393978" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.500007251393978)">
                   <rect className="country-background" width="128.51364135742188"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointErevents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-64.25682067871094,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Louisiana,
+                        style={{pointErevents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Louisiana,
                     United States
                   </text>
                 </g>
@@ -924,20 +924,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(284.93615594411955,134.48796165998593)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity:" 0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.110091312838957" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.110091312838957)">
                   <rect className="country-background" width="134.6656494140625"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-67.33282470703125,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">New
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>New
                     Jersey, United States
                   </text>
                 </g>
@@ -945,80 +945,80 @@ export const NetworkMapContainer = () => {
               <g className="node world-map-node" data-country-id="cn" data-ishome="false"
                  transform="translate(754.8893571891069,152.07451304203028)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="14.083143083020214" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-30.083143083020214)">
                   <rect className="country-background" width="38.92271423339844"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-19.46135711669922,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">China
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>China
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="jp" data-ishome="false"
                  transform="translate(841.2831551628262,148.8586783559775)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="13.170383063753007" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-29.170383063753007)">
                   <rect className="country-background" width="38.161590576171875"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-19.080795288085938,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Japan
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Japan
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="in" data-ishome="false"
                  transform="translate(681.5855286053451,196.54322429133248)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="13.035309641609977" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-29.035309641609977)">
                   <rect className="country-background" width="34.821102142333984"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-17.410551071166992,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">India
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>India
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="gb" data-ishome="false"
                  transform="translate(469.528024488034,81.37341764531047)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="12.596561727661182" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-28.596561727661182)">
                   <rect className="country-background" width="91.96460723876953"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-45.982303619384766,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">United
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>United
                     Kingdom
                   </text>
                 </g>
@@ -1026,99 +1026,99 @@ export const NetworkMapContainer = () => {
               <g className="node world-map-node" data-country-id="fr" data-ishome="false"
                  transform="translate(485.235987755983,114.05867684584814)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="12.515756336793107" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-28.515756336793107)">
                   <rect className="country-background" width="42.46617126464844"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-21.23308563232422,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">France
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>France
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="de" data-ishome="false"
                  transform="translate(507.4889357189107,92.190146984439)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="12.396539907158845" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-28.396539907158846)">
                   <rect className="country-background" width="55.52360916137695"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-27.761804580688477,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Germany
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Germany
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="it" data-ishome="false"
                  transform="translate(513.5975872282262,125.669707608347)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="12.256695012258369" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-28.25669501225837)">
                   <rect className="country-background" width="30.769041061401367"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-15.384520530700684,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Italy
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Italy
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="es" data-ishome="false"
                  transform="translate(469.528024488034,135.56355219000838)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="12.13168578068743" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-28.13168578068743)">
                   <rect className="country-background" width="37.197500228881836"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-18.598750114440918,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Spain
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Spain
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="kr" data-ishome="false"
                  transform="translate(813.7942194439156,145.6018006374608)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="11.97338404558845" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-27.97338404558845)">
                   <rect className="country-background" width="100.5153579711914"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-50.2576789855957,-16.237314224243164)" rx="5" ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Korea,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Korea,
                     Republic of
                   </text>
                 </g>
@@ -1126,20 +1126,20 @@ export const NetworkMapContainer = () => {
               <g className="node world-map-node" data-country-id="au" data-ishome="false"
                  transform="translate(833.4291735288517,317.63129949275725)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="11.711574288256964" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-27.711574288256962)">
                   <rect className="country-background" width="200.69290161132812"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-100.34645080566406,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Australia
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Australia
                     (No State Affiliation Provided)
                   </text>
                 </g>
@@ -1148,20 +1148,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(861.2134189571998,338.01214872835044)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect:" non-scaling-stroke"}}
                         r="9.051753685100024" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.051753685100024)">
                   <rect className="country-background" width="143.05294799804688"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-71.52647399902344,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">New
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>New
                     South Wales, Australia
                   </text>
                 </g>
@@ -1170,20 +1170,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(853.5950305923059,306.02073640452835)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.843588872671304" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.843588872671305)">
                   <rect className="country-background" width="117.27621459960938"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-58.63810729980469,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Queensland,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Queensland,
                     Australia
                   </text>
                 </g>
@@ -1192,20 +1192,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(855.8923987600597,353.3711359700043)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.511943492900826" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.511943492900826)">
                   <rect className="country-background" width="96.04930877685547"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-48.024654388427734,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Victoria,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: 'middle', opacity: "0"}}>Victoria,
                     Australia
                   </text>
                 </g>
@@ -1214,19 +1214,19 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(801.5031989536681,319.83447608151107)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.015756384595355" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.015756384595356)">
                   <rect className="country-background" width="144.1946258544922"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-72.0973129272461,-16.237314224243164)" rx="5" ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Western
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Western
                     Australia, Australia
                   </text>
                 </g>
@@ -1234,20 +1234,20 @@ export const NetworkMapContainer = () => {
               <g className="node world-map-node" data-country-id="vn" data-ishome="false"
                  transform="translate(762.3070134913999,207.1027103375969)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="11.944833490623344" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-27.944833490623346)">
                   <rect className="country-background" width="57.05438232421875"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-28.527191162109375,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Viet
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Viet
                     Nam
                   </text>
                 </g>
@@ -1255,40 +1255,40 @@ export const NetworkMapContainer = () => {
               <g className="node world-map-node" data-country-id="id" data-ishome="false"
                  transform="translate(794.1592653589793,263.106615394305)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect:" non-scaling-stroke"}}
                         r="11.82327344520462" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-27.82327344520462)">
                   <rect className="country-background" width="57.933902740478516"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-28.966951370239258,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Indonesia
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Indonesia
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="ru" data-ishome="false"
                  transform="translate(741.7993877991494,52.4563154612776)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="11.601251934110358" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-27.60125193411036)">
                   <rect className="country-background" width="103.33072662353516"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-51.66536331176758,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Russian
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Russian
                     Federation
                   </text>
                 </g>
@@ -1296,20 +1296,20 @@ export const NetworkMapContainer = () => {
               <g className="node world-map-node" data-country-id="ca" data-ishome="false"
                  transform="translate(228.67258771281652,52.4563154612776)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="11.360161189750713" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-27.360161189750713)">
                   <rect className="country-background" width="256.738525390625"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-128.3692626953125,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Canada
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Canada
                     (No Province/Territory Affiliation Provided)
                   </text>
                 </g>
@@ -1318,20 +1318,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(167.1962899831426,79.51409743580206)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="6.187923896519407" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-22.187923896519408)">
                   <rect className="country-background" width="87.60928344726562"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-43.80464172363281,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Alberta,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Alberta,
                     Canada
                   </text>
                 </g>
@@ -1340,20 +1340,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(125.25675062402928,82.35665614488931)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="6.187923896519407" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-22.187923896519408)">
                   <rect className="country-background" width="135.86455535888672"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-67.93227767944336,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">British
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>British
                     Columbia, Canada
                   </text>
                 </g>
@@ -1362,20 +1362,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(283.6504591506379,76.86481695867022)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.015756384595355" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.015756384595356)">
                   <rect className="country-background" width="90.17173767089844"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-45.08586883544922,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Quebec,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Quebec,
                     Canada
                   </text>
                 </g>
@@ -1384,20 +1384,20 @@ export const NetworkMapContainer = () => {
                  data-ishome="false" transform="translate(246.41688945092037,101.56045676851181)"
                  data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.155672243479957" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.155672243479955)">
                   <rect className="country-background" width="90.0787124633789"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-45.03935623168945,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Ontario,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Ontario,
                     Canada
                   </text>
                 </g>
@@ -1405,60 +1405,60 @@ export const NetworkMapContainer = () => {
               <g className="node world-map-node" data-country-id="my" data-ishome="false"
                  transform="translate(774.5243112740432,243.4529375281316)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="11.344342351725683" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-27.344342351725683)">
                   <rect className="country-background" width="52.11553192138672"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-26.05776596069336,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Malaysia
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Malaysia
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="sg" data-ishome="false"
                  transform="translate(751.747764535517,246.42173483093623)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity:" 0.8", vectorEffect: "non-scaling-stroke"}}
                         r="11.22732334459982" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-27.22732334459982)">
                   <rect className="country-background" width="59.65911865234375"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-29.829559326171875,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Singapore
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Singapore
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="ir" data-ishome="false"
                  transform="translate(618.7536755335492,161.4950660244993)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="11.154918807049253" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-27.154918807049253)">
                   <rect className="country-background" width="129.6817855834961"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-64.84089279174805,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Iran,
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Iran,
                     Islamic Republic of
                   </text>
                 </g>
@@ -1466,160 +1466,160 @@ export const NetworkMapContainer = () => {
               <g className="node world-map-node" data-country-id="pl" data-ishome="false"
                  transform="translate(532.3598775598299,90.07574340914971)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="11.154918807049253" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-27.154918807049253)">
                   <rect className="country-background" width="43.743167877197266"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: 'none', opacity: "0"}} height="23.237314224243164"
                         transform="translate(-21.871583938598633,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Poland
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Poland
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="tr" data-ishome="false"
                  transform="translate(571.3982110812245,138.7576056979604)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.995440957128672" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.99544095712867)">
                   <rect className="country-background" width="42.98741149902344"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-21.49370574951172,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Turkey
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Turkey
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="th" data-ishome="false"
                  transform="translate(741.7993877991494,210.27366283584314)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.952006697082588" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.952006697082588)">
                   <rect className="country-background" width="52.69060516357422"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-26.34530258178711,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Thailand
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Thailand
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="br" data-ishome="false"
                  transform="translate(336.0103367104678,276.3138744477727)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.906933025327373" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.906933025327373)">
                   <rect className="country-background" width="37.60343360900879"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-18.801716804504395,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Brazil
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Brazil
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="pk" data-ishome="false"
                  transform="translate(663.2595714594046,167.60407834989178)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.883741800181015" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.883741800181014)">
                   <rect className="country-background" width="50.610198974609375"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-25.305099487304688,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Pakistan
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Pakistan
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="nl" data-ishome="false"
                  transform="translate(495.0534647984511,87.9375892076734)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.760507896233278" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.76050789623328)">
                   <rect className="country-background" width="70.41513061523438"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-35.20756530761719,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Netherlands
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Netherlands
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="ch" data-ishome="false"
                  transform="translate(500.94395102393196,110.25525778692645)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.707418687325875" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.707418687325877)">
                   <rect className="country-background" width="66.44157791137695"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-33.22078895568848,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Switzerland
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Switzerland
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="sa" data-ishome="false"
                  transform="translate(597.8097245096172,182.3687005072427)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.707418687325875" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.707418687325877)">
                   <rect className="country-background" width="70.81381225585938"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-35.40690612792969,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Saudi
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Saudi
                     Arabia
                   </text>
                 </g>
@@ -1627,40 +1627,40 @@ export const NetworkMapContainer = () => {
               <g className="node world-map-node" data-country-id="at" data-ishome="false"
                  transform="translate(514.9065841672219,108.97167752290801)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.593588777066802" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.593588777066802)">
                   <rect className="country-background" width="44.70725631713867"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-22.353628158569336,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Austria
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Austria
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="hk" data-ishome="false"
                  transform="translate(778.8641335456508,190.1273439873638)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.563351548682498" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.563351548682498)">
                   <rect className="country-background" width="66.98249435424805"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-33.49124717712402,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Hong
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Hong
                     Kong
                   </text>
                 </g>
@@ -1668,140 +1668,140 @@ export const NetworkMapContainer = () => {
               <g className="node world-map-node" data-country-id="se" data-ishome="false"
                  transform="translate(519.2699081698725,41.65210466867444)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.532328751992925" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.532328751992925)">
                   <rect className="country-background" width="47.94626235961914"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-23.97313117980957,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Sweden
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Sweden
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="cl" data-ishome="false"
                  transform="translate(294.12243466260395,332.3959216501082)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.50047853176352" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.50047853176352)">
                   <rect className="country-background" width="35.34543228149414"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-17.67271614074707,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Chile
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Chile
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="ar" data-ishome="false"
                  transform="translate(312.44839180854433,344.7487179908743)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.363837147167521" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.363837147167523)">
                   <rect className="country-background" width="58.517433166503906"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-29.258716583251953,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Argentina
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Argentina
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="mx" data-ishome="false"
                  transform="translate(212.96462444486758,188.10060905904598)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.32708634884971" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.32708634884971)">
                   <rect className="country-background" width="44.91022491455078"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-22.45511245727539,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Mexico
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Mexico
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="ph" data-ishome="false"
                  transform="translate(799.3952531149623,215.67025123761456)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.28916854531161" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.28916854531161)">
                   <rect className="country-background" width="64.16936492919922"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-32.08468246459961,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Philippines
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Philippines
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="be" data-ishome="false"
                  transform="translate(490.471975511966,94.97358239524812)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill:" rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity:" 0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.124174209006641" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.12417420900664)">
                   <rect className="country-background" width="51.78571319580078"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-25.89285659790039,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Belgium
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Belgium
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="za" data-ishome="false"
                  transform="translate(548.0678408277788,332.3959216501082)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.079100537251424" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.079100537251424)">
                   <rect className="country-background" width="69.19008255004883"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-34.595041275024414,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">South
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>South
                     Africa
                   </text>
                 </g>
@@ -1809,140 +1809,140 @@ export const NetworkMapContainer = () => {
               <g className="node world-map-node" data-country-id="gr" data-ishome="false"
                  transform="translate(537.5958653158128,138.95648746851685)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="10.032258901246612" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-26.032258901246614)">
                   <rect className="country-background" width="44.013790130615234"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-22.006895065307617,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Greece
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Greece
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="eg" data-ishome="false"
                  transform="translate(558.5398163397448,176.5426938358824)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.983504763424074" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.983504763424072)">
                   <rect className="country-background" width="38.08038330078125"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-19.040191650390625,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Egypt
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Egypt
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="bd" data-ishome="false"
                  transform="translate(715.6194490192345,185.2457909880664)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.932675366590157" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.932675366590157)">
                   <rect className="country-background" width="67.12659072875977"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-33.56329536437988,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Bangladesh
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Bangladesh
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="hu" data-ishome="false"
                  transform="translate(532.3598775598299,110.25525778692645)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.932675366590157" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.932675366590157)">
                   <rect className="country-background" width="53.68385696411133"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-26.841928482055664,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Hungary
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Hungary
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="il" data-ishome="false"
                  transform="translate(570.9752872602044,163.03443316588283)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.932675366590157" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.932675366590157)">
                   <rect className="country-background" width="35.94587516784668"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-17.97293758392334,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Israel
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Israel
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="no" data-ishome="false"
                  transform="translate(506.17993877991495,41.65210466867444)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect:" non-scaling-stroke"}}
                         r="9.824026897853948" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.824026897853948)">
                   <rect className="country-background" width="47.91852951049805"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-23.959264755249023,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Norway
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Norway
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="ae" data-ishome="false"
                  transform="translate(621.3716694115407,185.2457909880664)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.765756288990854" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.765756288990854)">
                   <rect className="country-background" width="114.80343627929688"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-57.40171813964844,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">United
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>United
                     Arab Emirates
                   </text>
                 </g>
@@ -1950,40 +1950,40 @@ export const NetworkMapContainer = () => {
               <g className="node world-map-node" data-country-id="pt" data-ishome="false"
                  transform="translate(459.05604897606804,137.2661219309461)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.765756288990854" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.765756288990854)">
                   <rect className="country-background" width="51.50663375854492"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-25.75331687927246,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Portugal
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Portugal
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="cz" data-ishome="false"
                  transform="translate(519.2699081698725,99.41310554104737)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.639923211194443" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.639923211194443)">
                   <rect className="country-background" width="84.87752532958984"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-42.43876266479492,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Czech
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Czech
                     Republic
                   </text>
                 </g>
@@ -1991,40 +1991,40 @@ export const NetworkMapContainer = () => {
               <g className="node world-map-node" data-country-id="fi" data-ishome="false"
                  transform="translate(548.0678408277788,30.11375012452112)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.639923211194443" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.639923211194443)">
                   <rect className="country-background" width="46.73692321777344"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-23.36846160888672,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Finland
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Finland
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="nz" data-ishome="false"
                  transform="translate(935.5309347705199,371.3750843870972)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect:" non-scaling-stroke"}}
                         r="9.639923211194443" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.639923211194443)">
                   <rect className="country-background" width="74.50949096679688"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-37.25474548339844,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">New
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>New
                     Zealand
                   </text>
                 </g>
@@ -2032,360 +2032,360 @@ export const NetworkMapContainer = () => {
               <g className="node world-map-node" data-country-id="dk" data-ishome="false"
                  transform="translate(506.17993877991495,72.24239642198538)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.49925380102095" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.49925380102095)">
                   <rect className="country-background" width="56.158599853515625"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-28.079299926757812,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Denmark
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Denmark
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="ro" data-ishome="false"
                  transform="translate(545.4498469497873,114.05867684584814)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.42217476331803" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.42217476331803)">
                   <rect className="country-background" width="53.39252853393555"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-26.696264266967773,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Romania
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Romania
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="co" data-ishome="false"
                  transform="translate(291.5044407846124,239.51950758530208)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity:" 0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.339775980976775" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.339775980976775)">
                   <rect className="country-background" width="57.477230072021484"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-28.738615036010742,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Colombia
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Colombia
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="ua" data-ishome="false"
                  transform="translate(563.7758040957278,102.42881908918127)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.251268049175478" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.25126804917548)">
                   <rect className="country-background" width="48.33528137207031"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}}height="23.237314224243164"
                         transform="translate(-24.167640686035156,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Ukraine
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Ukraine
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="ie" data-ishome="false"
                  transform="translate(459.05604897606804,85.77497817019795)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.155672243479957" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.155672243479955)">
                   <rect className="country-background" width="44.377437591552734"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-22.188718795776367,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Ireland
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Ireland
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="ng" data-ishome="false"
                  transform="translate(500.94395102393196,223.68612555222722)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="9.155672243479957" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-25.155672243479955)">
                   <rect className="country-background" width="46.49167251586914"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-23.24583625793457,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Nigeria
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Nigeria
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="sk" data-ishome="false"
                  transform="translate(531.0508806208342,103.75455165361828)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity:" 0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.937923800914906" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.937923800914906)">
                   <rect className="country-background" width="49.4093132019043"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-24.70465660095215,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Slovakia
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Slovakia
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="dz" data-ishome="false"
                  transform="translate(487.85398163397446,173.59115703415495)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.812090680627604" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.812090680627605)">
                   <rect className="country-background" width="44.48737716674805"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-22.243688583374023,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Algeria
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Algeria
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="iq" data-ishome="false"
                  transform="translate(595.1917306316258,158.39086797460067)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.812090680627604" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.812090680627605)">
                   <rect className="country-background" width="29.188783645629883"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-14.594391822814941,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Iraq
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Iraq
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="kw" data-ishome="false"
                  transform="translate(605.0092076740939,169.11180190866247)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect:" non-scaling-stroke"}}
                         r="8.812090680627604" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.812090680627605)">
                   <rect className="country-background" width="43.31840515136719"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-21.659202575683594,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Kuwait
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Kuwait
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="ee" data-ishome="false"
                  transform="translate(548.0678408277788,57.61497708652425)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.671421312945002" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.671421312945)">
                   <rect className="country-background" width="46.246421813964844"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-23.123210906982422,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Estonia
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Estonia
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="si" data-ishome="false"
                  transform="translate(519.7062413555357,113.11435128556252)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill:" rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity:" 0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.671421312945002" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.671421312945)">
                   <rect className="country-background" width="50.686309814453125"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-25.343154907226562,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Slovenia
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Slovenia
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="mn" data-ishome="false"
                  transform="translate(754.8893571891069,114.05867684584814)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.511943492900826" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.511943492900826)">
                   <rect className="country-background" width="56.94444274902344"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-28.47222137451172,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Mongolia
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Mongolia
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="mo" data-ishome="false"
                  transform="translate(777.2941487969581,190.47186301818272)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.511943492900826" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.511943492900826)">
                   <rect className="country-background" width="42.20400619506836"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-21.10200309753418,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Macao
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Macao
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="ec" data-ishome="false"
                  transform="translate(277.1054744556592,255.2370513953889)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.327839739469926" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.327839739469926)">
                   <rect className="country-background" width="50.39249801635742"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-25.19624900817871,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Ecuador
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Ecuador
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="jo" data-ishome="false"
                  transform="translate(574.2477796076938,164.5655899978843)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.327839739469926" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.327839739469926)">
                   <rect className="country-background" width="43.12581253051758"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-21.56290626525879,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Jordan
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Jordan
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="kz" data-ishome="false"
                  transform="translate(658.0235837034217,106.37997032162193)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.327839739469926" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.327839739469926)">
                   <rect className="country-background" width="64.76710510253906"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-32.38355255126953,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Kazakhstan
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Kazakhstan
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="lk" data-ishome="false"
                  transform="translate(692.057504117311,231.62828234510522)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.327839739469926" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.327839739469926)">
                   <rect className="country-background" width="55.01626205444336"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-27.50813102722168,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Sri
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Sri
                     Lanka
                   </text>
                 </g>
@@ -2393,160 +2393,160 @@ export const NetworkMapContainer = () => {
               <g className="node world-map-node" data-country-id="qa" data-ishome="false"
                  transform="translate(614.172186247064,180.9214170825154)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.327839739469926" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.327839739469926)">
                   <rect className="country-background" width="37.67833137512207"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-18.839165687561035,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Qatar
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Qatar
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="rs" data-ishome="false"
                  transform="translate(534.9778714378214,121.46460988554915)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.327839739469926" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.327839739469926)">
                   <rect className="country-background" width="40.36039352416992"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-20.18019676208496,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Serbia
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Serbia
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="bg" data-ishome="false"
                  transform="translate(545.4498469497873,125.0739005697399)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill:" rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.110091312838957" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.110091312838957)">
                   <rect className="country-background" width="51.02458953857422"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-25.51229476928711,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Bulgaria
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Bulgaria
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="ke" data-ishome="false"
                  transform="translate(579.4837673636767,247.38187319746223)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.110091312838957" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.110091312838957)">
                   <rect className="country-background" width="39.04956817626953"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-19.524784088134766,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Kenya
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Kenya
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="lv" data-ishome="false"
                  transform="translate(545.4498469497873,67.4987773176762)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.110091312838957" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.110091312838957)">
                   <rect className="country-background" width="38.40684127807617"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-19.203420639038086,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Latvia
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Latvia
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="ma" data-ishome="false"
                  transform="translate(466.91003061004255,161.4950660244993)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.110091312838957" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.110091312838957)">
                   <rect className="country-background" width="52.9781379699707"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-26.48906898498535,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Morocco
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Morocco
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="pa" data-ishome="false"
                  transform="translate(270.56048976068047,226.340558471342)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity:" 0.8", vectorEffect: "non-scaling-stroke"}}
                         r="8.110091312838957" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-24.110091312838957)">
                   <rect className="country-background" width="49.13869094848633"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-24.569345474243164,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Panama
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Panama
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="bn" data-ishome="false"
                  transform="translate(780.1966243617077,238.20689701071828)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.843588872671304" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.843588872671305)">
                   <rect className="country-background" width="103.94808197021484"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-51.97404098510742,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Brunei
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Brunei
                     Darussalam
                   </text>
                 </g>
@@ -2554,120 +2554,120 @@ export const NetworkMapContainer = () => {
               <g className="node world-map-node" data-country-id="ge" data-ishome="false"
                  transform="translate(593.8824849832116,128.62498607005662)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.843588872671304" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.843588872671305)">
                   <rect className="country-background" width="48.961097717285156"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-24.480548858642578,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Georgia
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Georgia
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="lu" data-ishome="false"
                  transform="translate(496.1442964536122,99.41310554104737)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity:" 0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.843588872671304" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.843588872671305)">
                   <rect className="country-background" width="72.41971588134766"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-36.20985794067383,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Luxembourg
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Luxembourg
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="rw" data-ishome="false"
                  transform="translate(558.5398163397448,255.2370513953889)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style{{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.843588872671304" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.843588872671305)">
                   <rect className="country-background" width="48.563621520996094"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-24.281810760498047,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Rwanda
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Rwanda
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="tn" data-ishome="false"
                  transform="translate(503.5619449019234,155.25128200912567)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.843588872671304" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.843588872671305)">
                   <rect className="country-background" width="45.22312927246094"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-22.61156463623047,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Tunisia
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Tunisia
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="am" data-ishome="false"
                  transform="translate(597.8097245096172,135.56355219000838)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectorEffect: "non-scaling-stroke"}}
                         r="7.500007251393978" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none" }}width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.500007251393978)">
                   <rect className="country-background" width="51.95484924316406"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-25.97742462158203,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Armenia
+                        style={{pointerEvents: "none", fill: "rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Armenia
                   </text>
                 </g>
               </g>
               <g className="node world-map-node" data-country-id="by" data-ishome="false"
                  transform="translate(553.3038285837619,85.77497817019795)" data-loaded="true">
                 <circle className="collaborations" aria-expanded="false"
-                        style="fill: rgb(163, 31, 52); stroke: white; stroke-width: 2; opacity: 0.8; vector-effect: non-scaling-stroke;"
+                        style={{fill: "rgb(163, 31, 52)", stroke: "white", strokeWidth: "2", opacity: "0.8", vectoEeffect: "non-scaling-stroke"}}
                         r="7.500007251393978" data-loaded="true"></circle>
                 <foreignObject width="360px" height="600" x="-172" y="25"
                                className="collaboration-map-popup-container"
-                               style="display: none;"></foreignObject>
-                <foreignObject style="display:none" width="35" height="35" x="-15" y="-18"
+                               style={{display: "none"}}></foreignObject>
+                <foreignObject style={{display:"none"}} width="35" height="35" x="-15" y="-18"
                                className="collaboration-map-home-icon"></foreignObject>
                 <g className="text-box" transform="translate(0,-23.500007251393978)">
                   <rect className="country-background" width="46.621463775634766"
-                        style="pointer-events: none; opacity: 0;" height="23.237314224243164"
+                        style={{pointerEvents: "none", opacity: "0"}} height="23.237314224243164"
                         transform="translate(-23.310731887817383,-16.237314224243164)" rx="5"
                         ry="5"></rect>
                   <text className="country-label" dy=""
-                        style="pointer-events: none; fill: rgb(255, 255, 255); text-anchor: middle; opacity: 0;">Belarus
+                        style={{pointerEvents: "none", fill:" rgb(255, 255, 255)", textAnchor: "middle", opacity: "0"}}>Belarus
                   </text>
                 </g>
               </g>
