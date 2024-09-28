@@ -209,7 +209,7 @@ export const Home = () => {
                     We're committed to doing all we can to assist in the global
                     response to the Coronavirus (COVID-19) pandemic.
                   </p>
-                  <p className="linktext">
+                  <p>
                     Explore all our related research and expertise
                   </p>
                 </a>
