@@ -1,9 +1,8 @@
-import { NetworkMapContainer } from "@/components";
+import { NetworkMapContainer } from "./NetworkMapContainer";
 import "./Home.scss";
-import {useScript} from "@/hooks";
 
 export const Home = () => {
-  useScript("/scripts/application-4883631f598d94c7f2d3edfb226db950.js");
+  //
 
   return (
     <>
@@ -75,7 +74,7 @@ export const Home = () => {
                             className="search-field"
                             name="search"
                             autoComplete="off"
-                            autoFocus={true}
+                            autoFocus={false}
                           />
                         </div>
                         <div
@@ -246,9 +245,6 @@ export const Home = () => {
                               className="icon icon-persons"
                               aria-hidden="true"
                             />
-                            <span className="count increment-counter">
-                              1832
-                            </span>
                             <span className="label">Profiles</span>
                           </span>
                         </a>
@@ -266,7 +262,6 @@ export const Home = () => {
                               className="icon icon-organisations"
                               aria-hidden="true"
                             />
-                            <span className="count increment-counter">242</span>
                             <span className="label">Research units</span>
                           </span>
                         </a>
@@ -284,9 +279,6 @@ export const Home = () => {
                               className="icon icon-publications"
                               aria-hidden="true"
                             />
-                            <span className="count increment-counter">
-                              116713
-                            </span>
                             <span className="label">Research output</span>
                           </span>
                         </a>
@@ -304,9 +296,6 @@ export const Home = () => {
                               className="icon icon-projects"
                               aria-hidden="true"
                             />
-                            <span className="count increment-counter">
-                              24454
-                            </span>
                             <span className="label">Projects</span>
                           </span>
                         </a>
@@ -327,9 +316,6 @@ export const Home = () => {
                               className="icon icon-studentTheses"
                               aria-hidden="true"
                             />
-                            <span className="count increment-counter">
-                              16580
-                            </span>
                             <span className="label">Student theses</span>
                           </span>
                         </a>
@@ -347,7 +333,6 @@ export const Home = () => {
                               className="icon icon-equipments"
                               aria-hidden="true"
                             />
-                            <span className="count increment-counter">165</span>
                             <span className="label">Equipment</span>
                           </span>
                         </a>
@@ -362,9 +347,7 @@ export const Home = () => {
                           aria-label="More navigation options"
                           data-loaded="true"
                         >
-                          <i className="icon icon-dots">
-                            <span className="count increment-counter">23</span>
-                          </i>
+                          <i className="icon icon-dots"/>
                           <span className="label">More</span>
                         </button>
                         <div className="dropdown-container">
@@ -383,9 +366,6 @@ export const Home = () => {
                                     className="icon icon-prizes"
                                     aria-hidden="true"
                                   />
-                                  <span className="count increment-counter">
-                                    5
-                                  </span>
                                   <span className="label">Prizes</span>
                                 </span>
                               </a>
@@ -404,9 +384,6 @@ export const Home = () => {
                                     className="icon icon-activities"
                                     aria-hidden="true"
                                   />
-                                  <span className="count increment-counter">
-                                    18
-                                  </span>
                                   <span className="label">Activities</span>
                                 </span>
                               </a>
@@ -809,58 +786,6 @@ export const Home = () => {
                         src="./assets/sdg_icons/clean_water_and_sanitation-8884b7035ac6e3b41dc71f42a6e3e897.svg"
                       />
                     </button>
-                    <div className="dropdown-container">
-                      <ul className="dropdown-menu">
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/persons/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fclean_water_and_sanitation"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-persons"
-                                aria-hidden="true"
-                              />
-                              <strong>32</strong>
-                              <span className="label">Profiles</span>
-                            </span>
-                          </a>
-                        </li>
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/organisations/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fclean_water_and_sanitation"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-organisations"
-                                aria-hidden="true"
-                              />
-                              <strong>19</strong>
-                              <span className="label">Research units</span>
-                            </span>
-                          </a>
-                        </li>
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/publications/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fclean_water_and_sanitation"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-publications"
-                                aria-hidden="true"
-                              />
-                              <strong>46</strong>
-                              <span className="label">Research output</span>
-                            </span>
-                          </a>
-                        </li>
-                      </ul>
-                    </div>
                   </li>
 
                   <li role="none" className="dropdown-overflow">
@@ -877,60 +802,6 @@ export const Home = () => {
                         src="./assets/sdg_icons/affordable_and_clean_energy-3ef7b8830c5ae63dc37fecf9e07b7fb8.svg"
                       />
                     </button>
-                    <div className="dropdown-container">
-                      <ul className="dropdown-menu">
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/persons/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Faffordable_and_clean_energy"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-persons"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>410</strong>
-                              <span className="label">Profiles</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/organisations/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Faffordable_and_clean_energy"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-organisations"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>107</strong>
-                              <span className="label">Research units</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/publications/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Faffordable_and_clean_energy"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-publications"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>3058</strong>
-                              <span className="label">Research output</span>
-                            </span>
-                          </a>
-                        </li>
-                      </ul>
-                    </div>
                   </li>
 
                   <li role="none" className="dropdown-overflow">
@@ -947,61 +818,6 @@ export const Home = () => {
                         src="./assets/sdg_icons/decent_work_and_economic_growth-f82f7cc7255870c88a43e48b79772f97.svg"
                       />
                     </button>
-
-                    <div className="dropdown-container">
-                      <ul className="dropdown-menu">
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/persons/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fdecent_work_and_economic_growth"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-persons"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>98</strong>
-                              <span className="label">Profiles</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/organisations/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fdecent_work_and_economic_growth"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-organisations"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>49</strong>
-                              <span className="label">Research units</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/publications/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fdecent_work_and_economic_growth"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-publications"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>205</strong>
-                              <span className="label">Research output</span>
-                            </span>
-                          </a>
-                        </li>
-                      </ul>
-                    </div>
                   </li>
 
                   <li role="none" className="dropdown-overflow">
@@ -1018,61 +834,6 @@ export const Home = () => {
                         src="./assets/sdg_icons/industry_innovation_and_infrastructure-f6ac329b3d6b0c40b72e8bb0c46a88d9.svg"
                       />
                     </button>
-
-                    <div className="dropdown-container">
-                      <ul className="dropdown-menu">
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/persons/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Findustry_innovation_and_infrastructure"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-persons"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>77</strong>
-                              <span className="label">Profiles</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/organisations/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Findustry_innovation_and_infrastructure"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-organisations"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>45</strong>
-                              <span className="label">Research units</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/publications/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Findustry_innovation_and_infrastructure"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-publications"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>127</strong>
-                              <span className="label">Research output</span>
-                            </span>
-                          </a>
-                        </li>
-                      </ul>
-                    </div>
                   </li>
 
                   <li role="none" className="dropdown-overflow">
@@ -1089,61 +850,6 @@ export const Home = () => {
                         src="./assets/sdg_icons/reduced_inequalities-8bb4302575a086560a67ee5f8961db72.svg"
                       />
                     </button>
-
-                    <div className="dropdown-container">
-                      <ul className="dropdown-menu">
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/persons/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Freduced_inequalities"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-persons"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>26</strong>
-                              <span className="label">Profiles</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/organisations/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Freduced_inequalities"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-organisations"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>24</strong>
-                              <span className="label">Research units</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/publications/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Freduced_inequalities"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-publications"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>38</strong>
-                              <span className="label">Research output</span>
-                            </span>
-                          </a>
-                        </li>
-                      </ul>
-                    </div>
                   </li>
 
                   <li role="none" className="dropdown-overflow">
@@ -1160,61 +866,6 @@ export const Home = () => {
                         src="./assets/sdg_icons/sustainable_cities_and_communities-31bf806f901b93759d828884fd5df53f.svg"
                       />
                     </button>
-
-                    <div className="dropdown-container">
-                      <ul className="dropdown-menu">
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/persons/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fsustainable_cities_and_communities"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-persons"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>164</strong>
-                              <span className="label">Profiles</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/organisations/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fsustainable_cities_and_communities"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-organisations"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>58</strong>
-                              <span className="label">Research units</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/publications/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fsustainable_cities_and_communities"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-publications"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>409</strong>
-                              <span className="label">Research output</span>
-                            </span>
-                          </a>
-                        </li>
-                      </ul>
-                    </div>
                   </li>
 
                   <li role="none" className="dropdown-overflow">
@@ -1231,61 +882,6 @@ export const Home = () => {
                         src="./assets/sdg_icons/responsible_consumption_and_production-309b9599b314a8ef34f446a7e4215de6.svg"
                       />
                     </button>
-
-                    <div className="dropdown-container">
-                      <ul className="dropdown-menu">
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/persons/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fresponsible_consumption_and_production"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-persons"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>111</strong>
-                              <span className="label">Profiles</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/organisations/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fresponsible_consumption_and_production"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-organisations"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>56</strong>
-                              <span className="label">Research units</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/publications/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fresponsible_consumption_and_production"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-publications"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>278</strong>
-                              <span className="label">Research output</span>
-                            </span>
-                          </a>
-                        </li>
-                      </ul>
-                    </div>
                   </li>
 
                   <li role="none" className="dropdown-overflow">
@@ -1302,61 +898,6 @@ export const Home = () => {
                         src="./assets/sdg_icons/climate_action-bf9936c5a1e66601be3cd2b75da7ce3f.svg"
                       />
                     </button>
-
-                    <div className="dropdown-container">
-                      <ul className="dropdown-menu">
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/persons/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fclimate_action"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-persons"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>168</strong>
-                              <span className="label">Profiles</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/organisations/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fclimate_action"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-organisations"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>80</strong>
-                              <span className="label">Research units</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/publications/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fclimate_action"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-publications"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>355</strong>
-                              <span className="label">Research output</span>
-                            </span>
-                          </a>
-                        </li>
-                      </ul>
-                    </div>
                   </li>
 
                   <li role="none" className="dropdown-overflow">
@@ -1373,61 +914,6 @@ export const Home = () => {
                         src="./assets/sdg_icons/life_below_water-ab710e5d53fa05458473f4b2cb73dd74.svg"
                       />
                     </button>
-
-                    <div className="dropdown-container">
-                      <ul className="dropdown-menu">
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/persons/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Flife_below_water"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-persons"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>102</strong>
-                              <span className="label">Profiles</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/organisations/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Flife_below_water"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-organisations"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>50</strong>
-                              <span className="label">Research units</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/publications/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Flife_below_water"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-publications"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>256</strong>
-                              <span className="label">Research output</span>
-                            </span>
-                          </a>
-                        </li>
-                      </ul>
-                    </div>
                   </li>
 
                   <li role="none" className="dropdown-overflow">
@@ -1444,61 +930,6 @@ export const Home = () => {
                         src="./assets/sdg_icons/life_on_land-f1b7e3dbbb3a9410964d6fbb4b31f821.svg"
                       />
                     </button>
-
-                    <div className="dropdown-container">
-                      <ul className="dropdown-menu">
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/persons/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Flife_on_land"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-persons"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>80</strong>
-                              <span className="label">Profiles</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/organisations/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Flife_on_land"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-organisations"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>39</strong>
-                              <span className="label">Research units</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/publications/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Flife_on_land"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-publications"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>223</strong>
-                              <span className="label">Research output</span>
-                            </span>
-                          </a>
-                        </li>
-                      </ul>
-                    </div>
                   </li>
 
                   <li role="none" className="dropdown-overflow">
@@ -1515,61 +946,6 @@ export const Home = () => {
                         src="./assets/sdg_icons/peace_justice_and_strong_institutions-05bb2c5c2784243923979f91286779c0.svg"
                       />
                     </button>
-
-                    <div className="dropdown-container">
-                      <ul className="dropdown-menu">
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/persons/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fpeace_justice_and_strong_institutions"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-persons"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>77</strong>
-                              <span className="label">Profiles</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/organisations/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fpeace_justice_and_strong_institutions"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-organisations"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>44</strong>
-                              <span className="label">Research units</span>
-                            </span>
-                          </a>
-                        </li>
-
-                        <li className="overflow-listitem">
-                          <a
-                            className="portal_link"
-                            role="menuitem"
-                            href="/en/publications/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fpeace_justice_and_strong_institutions"
-                          >
-                            <span>
-                              <i
-                                className="icon icon-publications"
-                                aria-hidden="true"
-                              ></i>
-                              <strong>131</strong>
-                              <span className="label">Research output</span>
-                            </span>
-                          </a>
-                        </li>
-                      </ul>
-                    </div>
                   </li>
                 </ul>
               </div>
@@ -3829,14 +3205,13 @@ export const Home = () => {
                         data-rank-value="1"
                       >
                         <span className="concept-wrapper">
-                          <span className="rank"></span>
+                          <span className="rank"/>
                           <span className="concept">Therapeutics</span>
                           <span className="thesauri">
                             Medicine &amp; Life Sciences
                           </span>
                         </span>
                       </button>
-                      <div className="dropdown-container"></div>
                     </li>
                     <li className="concept-badge-large-container" role="none">
                       <button
@@ -3851,14 +3226,13 @@ export const Home = () => {
                         data-rank-value="2.216983303780365"
                       >
                         <span className="concept-wrapper">
-                          <span className="rank"></span>
+                          <span className="rank"/>
                           <span className="concept">Databases</span>
                           <span className="thesauri">
                             Medicine &amp; Life Sciences
                           </span>
                         </span>
                       </button>
-                      <div className="dropdown-container"></div>
                     </li>
                     <li className="concept-badge-large-container" role="none">
                       <button
@@ -3873,14 +3247,13 @@ export const Home = () => {
                         data-rank-value="2.339415970674149"
                       >
                         <span className="concept-wrapper">
-                          <span className="rank"></span>
+                          <span className="rank"/>
                           <span className="concept">Deep learning</span>
                           <span className="thesauri">
                             Engineering &amp; Materials Science
                           </span>
                         </span>
                       </button>
-                      <div className="dropdown-container"></div>
                     </li>
                     <li className="concept-badge-large-container" role="none">
                       <button
@@ -3895,14 +3268,13 @@ export const Home = () => {
                         data-rank-value="2.470122222774055"
                       >
                         <span className="concept-wrapper">
-                          <span className="rank"></span>
+                          <span className="rank"/>
                           <span className="concept">Population</span>
                           <span className="thesauri">
                             Medicine &amp; Life Sciences
                           </span>
                         </span>
                       </button>
-                      <div className="dropdown-container"></div>
                     </li>
                     <li className="concept-badge-large-container" role="none">
                       <button
@@ -3917,14 +3289,13 @@ export const Home = () => {
                         data-rank-value="2.5240725092685485"
                       >
                         <span className="concept-wrapper">
-                          <span className="rank"></span>
+                          <span className="rank"/>
                           <span className="concept">Health</span>
                           <span className="thesauri">
                             Medicine &amp; Life Sciences
                           </span>
                         </span>
                       </button>
-                      <div className="dropdown-container"></div>
                     </li>
                     <li className="concept-badge-large-container" role="none">
                       <button
@@ -3939,14 +3310,13 @@ export const Home = () => {
                         data-rank-value="2.534574628174402"
                       >
                         <span className="concept-wrapper">
-                          <span className="rank"></span>
+                          <span className="rank"/>
                           <span className="concept">Machine learning</span>
                           <span className="thesauri">
                             Engineering &amp; Materials Science
                           </span>
                         </span>
                       </button>
-                      <div className="dropdown-container"></div>
                     </li>
                     <li className="concept-badge-large-container" role="none">
                       <button
@@ -3961,14 +3331,13 @@ export const Home = () => {
                         data-rank-value="2.678429036677522"
                       >
                         <span className="concept-wrapper">
-                          <span className="rank"></span>
+                          <span className="rank"/>
                           <span className="concept">Cohort Studies</span>
                           <span className="thesauri">
                             Medicine &amp; Life Sciences
                           </span>
                         </span>
                       </button>
-                      <div className="dropdown-container"></div>
                     </li>
                     <li className="concept-badge-large-container" role="none">
                       <button
@@ -3983,14 +3352,13 @@ export const Home = () => {
                         data-rank-value="3.0456710106243974"
                       >
                         <span className="concept-wrapper">
-                          <span className="rank"></span>
+                          <span className="rank"/>
                           <span className="concept">Pandemics</span>
                           <span className="thesauri">
                             Medicine &amp; Life Sciences
                           </span>
                         </span>
                       </button>
-                      <div className="dropdown-container"></div>
                     </li>
                     <li className="concept-badge-large-container" role="none">
                       <button
@@ -4005,14 +3373,13 @@ export const Home = () => {
                         data-rank-value="3.180666122866867"
                       >
                         <span className="concept-wrapper">
-                          <span className="rank"></span>
+                          <span className="rank"/>
                           <span className="concept">Experiments</span>
                           <span className="thesauri">
                             Engineering &amp; Materials Science
                           </span>
                         </span>
                       </button>
-                      <div className="dropdown-container"></div>
                     </li>
                     <li className="concept-badge-large-container" role="none">
                       <button
@@ -4027,14 +3394,13 @@ export const Home = () => {
                         data-rank-value="3.2599041473227195"
                       >
                         <span className="concept-wrapper">
-                          <span className="rank"></span>
+                          <span className="rank"/>
                           <span className="concept">method</span>
                           <span className="thesauri">
                             Earth &amp; Environmental Sciences
                           </span>
                         </span>
                       </button>
-                      <div className="dropdown-container"></div>
                     </li>
                     <li className="concept-badge-large-container" role="none">
                       <button
@@ -4049,14 +3415,13 @@ export const Home = () => {
                         data-rank-value="3.4093326209295127"
                       >
                         <span className="concept-wrapper">
-                          <span className="rank"></span>
+                          <span className="rank"/>
                           <span className="concept">Costs</span>
                           <span className="thesauri">
                             Engineering &amp; Materials Science
                           </span>
                         </span>
                       </button>
-                      <div className="dropdown-container"></div>
                     </li>
                     <li className="concept-badge-large-container" role="none">
                       <button
@@ -4071,14 +3436,13 @@ export const Home = () => {
                         data-rank-value="3.420807286132336"
                       >
                         <span className="concept-wrapper">
-                          <span className="rank"></span>
+                          <span className="rank"/>
                           <span className="concept">Neoplasms</span>
                           <span className="thesauri">
                             Medicine &amp; Life Sciences
                           </span>
                         </span>
                       </button>
-                      <div className="dropdown-container"></div>
                     </li>
                     <li className="concept-badge-large-container" role="none">
                       <button
@@ -4093,12 +3457,11 @@ export const Home = () => {
                         data-rank-value="3.430824573741588"
                       >
                         <span className="concept-wrapper">
-                          <span className="rank"></span>
+                          <span className="rank"/>
                           <span className="concept">Energy</span>
                           <span className="thesauri">Chemical Compounds</span>
                         </span>
                       </button>
-                      <div className="dropdown-container"></div>
                     </li>
                     <li className="concept-badge-large-container" role="none">
                       <button
@@ -4113,20 +3476,19 @@ export const Home = () => {
                         data-rank-value="3.5536071732236723"
                       >
                         <span className="concept-wrapper">
-                          <span className="rank"></span>
+                          <span className="rank"/>
                           <span className="concept">Time</span>
                           <span className="thesauri">Chemical Compounds</span>
                         </span>
                       </button>
-                      <div className="dropdown-container"></div>
                     </li>
                   </ul>
                 </div>
               </div>
             </section>
           </div>
-          <div id="new-modal-overlay"></div>
         </div>
+        <div id="new-modal-overlay"/>
       </main>
 
       <footer id="page-footer" className="main-footer">
@@ -4196,9 +3558,9 @@ export const Home = () => {
             </div>
           </div>
         </div>
-        <div id="back-to-top" style={{ display: "block" }}>
+        <div id="back-to-top" style={{ display: "none" }}>
           <a href="#" className="back-to-top" aria-label="Go to top">
-            <i className="icon icon-up-open"></i>
+            <i className="icon icon-up-open"/>
           </a>
         </div>
       </footer>
