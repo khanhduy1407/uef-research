@@ -271,6 +271,7 @@ export const Home = () => {
                           className="portal_link"
                           role="menuitem"
                           href="https://khcn.uef.edu.vn/"
+                          target="_blank"
                           tabIndex={-1}
                           data-loaded="true"
                         >
