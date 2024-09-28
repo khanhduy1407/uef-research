@@ -11,7 +11,7 @@
 }
 
 #search_banner {
-  background-image: url(public/assets/savedSearchBannerImage.png);
+  background-image: url(/assets/savedSearchBannerImage.png);
 }
 
 .page-section-header-home-index.has-backdrop-image,
@@ -209,13 +209,6 @@ rendering_person_personsocialmediaorcidrendererportal - is here to support backw
   a:hover {
     color: #a31f34 !important;
   }
-}
-
-.page-section-header-home-index.improvedLayout,
-.improvedLayout-section
-  .page-section.page-section-home.page-section-home-index.improvedLayout {
-  background-image: url(public/assets/headerBackgroundImage.png);
-  background-color: #a31f34;
 }
 
 ul.improvedLayout-menu li.selected a {

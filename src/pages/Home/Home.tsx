@@ -70,7 +70,7 @@ export const Home = () => {
                             className="search-field"
                             name="search"
                             autoComplete="off"
-                            autoFocus="autofocus"
+                            autoFocus={true}
                           />
                         </div>
                         <div
@@ -233,7 +233,7 @@ export const Home = () => {
                           className="portal_link"
                           role="menuitem"
                           href="/en/persons"
-                          tabIndex="0"
+                          tabIndex={0}
                           data-loaded="true"
                         >
                           <span>
@@ -253,7 +253,7 @@ export const Home = () => {
                           className="portal_link"
                           role="menuitem"
                           href="/en/organisations"
-                          tabIndex="-1"
+                          tabIndex={-1}
                           data-loaded="true"
                         >
                           <span>
@@ -271,7 +271,7 @@ export const Home = () => {
                           className="portal_link"
                           role="menuitem"
                           href="/en/publications"
-                          tabIndex="-1"
+                          tabIndex={-1}
                           data-loaded="true"
                         >
                           <span>
@@ -291,7 +291,7 @@ export const Home = () => {
                           className="portal_link"
                           role="menuitem"
                           href="/en/projects"
-                          tabIndex="-1"
+                          tabIndex={-1}
                           data-loaded="true"
                         >
                           <span>
@@ -314,7 +314,7 @@ export const Home = () => {
                           className="portal_link"
                           role="menuitem"
                           href="/en/studentTheses"
-                          tabIndex="-1"
+                          tabIndex={-1}
                           data-loaded="true"
                         >
                           <span>
@@ -334,7 +334,7 @@ export const Home = () => {
                           className="portal_link"
                           role="menuitem"
                           href="/en/equipments"
-                          tabIndex="-1"
+                          tabIndex={-1}
                           data-loaded="true"
                         >
                           <span>
@@ -456,7 +456,7 @@ export const Home = () => {
                     <button
                       role="menuitem"
                       className="no_poverty dropdown-toggle"
-                      tabIndex="0"
+                      tabIndex={0}
                       data-loaded="true"
                     >
                       <img
@@ -473,7 +473,7 @@ export const Home = () => {
                             className="portal_link"
                             role="menuitem"
                             href="/en/persons/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fno_poverty"
-                            tabIndex="0"
+                            tabIndex={0}
                           >
                             <span>
                               <i
@@ -490,7 +490,7 @@ export const Home = () => {
                             className="portal_link"
                             role="menuitem"
                             href="/en/organisations/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fno_poverty"
-                            tabIndex="0"
+                            tabIndex={0}
                           >
                             <span>
                               <i
@@ -507,7 +507,7 @@ export const Home = () => {
                             className="portal_link"
                             role="menuitem"
                             href="/en/publications/?indexableKeyword=%2Fdk%2Fatira%2Fpure%2Fsustainabledevelopmentgoals%2Fno_poverty"
-                            tabIndex="0"
+                            tabIndex={0}
                           >
                             <span>
                               <i
@@ -526,7 +526,7 @@ export const Home = () => {
                     <button
                       role="menuitem"
                       className="zero_hunger dropdown-toggle"
-                      tabIndex="-1"
+                      tabIndex={-1}
                       data-loaded="true"
                     >
                       <img
@@ -593,7 +593,7 @@ export const Home = () => {
                     <button
                       role="menuitem"
                       className="good_health_and_well_being dropdown-toggle"
-                      tabIndex="-1"
+                      tabIndex={-1}
                       data-loaded="true"
                     >
                       <img
@@ -660,7 +660,7 @@ export const Home = () => {
                     <button
                       role="menuitem"
                       className="quality_education dropdown-toggle"
-                      tabIndex="-1"
+                      tabIndex={-1}
                       data-loaded="true"
                     >
                       <img
@@ -727,7 +727,7 @@ export const Home = () => {
                     <button
                       role="menuitem"
                       className="gender_equality dropdown-toggle"
-                      tabIndex="-1"
+                      tabIndex={-1}
                       data-loaded="true"
                     >
                       <img
@@ -794,7 +794,7 @@ export const Home = () => {
                     <button
                       role="menuitem"
                       className="clean_water_and_sanitation dropdown-toggle"
-                      tabIndex="-1"
+                      tabIndex={-1}
                       data-loaded="true"
                     >
                       <img
@@ -862,7 +862,7 @@ export const Home = () => {
                     <button
                       role="menuitem"
                       className="affordable_and_clean_energy dropdown-toggle"
-                      tabIndex="-1"
+                      tabIndex={-1}
                       data-loaded="true"
                     >
                       <img
@@ -932,7 +932,7 @@ export const Home = () => {
                     <button
                       role="menuitem"
                       className="decent_work_and_economic_growth dropdown-toggle"
-                      tabIndex="-1"
+                      tabIndex={-1}
                       data-loaded="true"
                     >
                       <img
@@ -1003,7 +1003,7 @@ export const Home = () => {
                     <button
                       role="menuitem"
                       className="industry_innovation_and_infrastructure dropdown-toggle"
-                      tabIndex="-1"
+                      tabIndex={-1}
                       data-loaded="true"
                     >
                       <img
@@ -1074,7 +1074,7 @@ export const Home = () => {
                     <button
                       role="menuitem"
                       className="reduced_inequalities dropdown-toggle"
-                      tabIndex="-1"
+                      tabIndex={-1}
                       data-loaded="true"
                     >
                       <img
@@ -1145,7 +1145,7 @@ export const Home = () => {
                     <button
                       role="menuitem"
                       className="sustainable_cities_and_communities dropdown-toggle"
-                      tabIndex="-1"
+                      tabIndex={-1}
                       data-loaded="true"
                     >
                       <img
@@ -1216,7 +1216,7 @@ export const Home = () => {
                     <button
                       role="menuitem"
                       className="responsible_consumption_and_production dropdown-toggle"
-                      tabIndex="-1"
+                      tabIndex={-1}
                       data-loaded="true"
                     >
                       <img
@@ -1287,7 +1287,7 @@ export const Home = () => {
                     <button
                       role="menuitem"
                       className="climate_action dropdown-toggle"
-                      tabIndex="-1"
+                      tabIndex={-1}
                       data-loaded="true"
                     >
                       <img
@@ -1358,7 +1358,7 @@ export const Home = () => {
                     <button
                       role="menuitem"
                       className="life_below_water dropdown-toggle"
-                      tabIndex="-1"
+                      tabIndex={-1}
                       data-loaded="true"
                     >
                       <img
@@ -1429,7 +1429,7 @@ export const Home = () => {
                     <button
                       role="menuitem"
                       className="life_on_land dropdown-toggle"
-                      tabIndex="-1"
+                      tabIndex={-1}
                       data-loaded="true"
                     >
                       <img
@@ -1500,7 +1500,7 @@ export const Home = () => {
                     <button
                       role="menuitem"
                       className="peace_justice_and_strong_institutions dropdown-toggle"
-                      tabIndex="-1"
+                      tabIndex={-1}
                       data-loaded="true"
                     >
                       <img
@@ -1604,7 +1604,7 @@ export const Home = () => {
                     </div>
                     <button className="close-filter map">Close</button>
                     <div id="groupcontainer">
-                      <div className="filtergroup" tabIndex="0">
+                      <div className="filtergroup" tabIndex={0}>
                         <label>Asia</label>
                         <ol className="country-list">
                           <li>
@@ -2064,7 +2064,7 @@ export const Home = () => {
                           </li>
                         </ol>
                       </div>
-                      <div className="filtergroup" tabIndex="0">
+                      <div className="filtergroup" tabIndex={0}>
                         <label>America</label>
                         <ol className="country-list">
                           <li>
@@ -2902,7 +2902,7 @@ export const Home = () => {
                           </li>
                         </ol>
                       </div>
-                      <div className="filtergroup" tabIndex="0">
+                      <div className="filtergroup" tabIndex={0}>
                         <label>Europe</label>
                         <ol className="country-list">
                           <li>
@@ -3466,7 +3466,7 @@ export const Home = () => {
                           </li>
                         </ol>
                       </div>
-                      <div className="filtergroup" tabIndex="0">
+                      <div className="filtergroup" tabIndex={0}>
                         <label>Australia and Oceania</label>
                         <ol className="country-list">
                           <li>
@@ -3549,7 +3549,7 @@ export const Home = () => {
                           </li>
                         </ol>
                       </div>
-                      <div className="filtergroup" tabIndex="0">
+                      <div className="filtergroup" tabIndex={0}>
                         <label>Africa</label>
                         <ol className="country-list">
                           <li>

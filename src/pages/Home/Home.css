@@ -178,7 +178,7 @@ td,th {
 
 @font-face {
     font-family: "Pure";
-    src: url("public/Pure-bf75a7766381099b1c632f1ba6be4499.woff") format("woff");
+    src: url("/Pure-bf75a7766381099b1c632f1ba6be4499.woff") format("woff");
     font-weight: normal;
     font-style: normal
 }
@@ -10270,7 +10270,7 @@ div.rendering_ris {
 
 @font-face {
     font-family: "Pure";
-    src: url("public/Pure-bf75a7766381099b1c632f1ba6be4499.woff") format("woff");
+    src: url("/Pure-bf75a7766381099b1c632f1ba6be4499.woff") format("woff");
     font-weight: normal;
     font-style: normal
 }
