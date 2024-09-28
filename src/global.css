@@ -7,7 +7,27 @@
   max-width: 100%;
   width: 100%;
   height: auto;
-  max-height: 225px;
+  max-height: 160px;
+}
+
+#page-header .logo {
+ position: absolute;
+ top: 10px;
+ left: 25px;
+ max-width: 200px;
+ width: 200px;
+}
+
+#page-header .text-logo {
+ position: absolute;
+ top: 0;
+ width: 100%;
+  text-align: center;
+  color: #d53131;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+  font-size: 3em;
+  font-weight: 700;
 }
 
 #search_banner {

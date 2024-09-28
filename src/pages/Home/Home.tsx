@@ -1,8 +1,9 @@
 import { NetworkMapContainer } from "@/components";
 import "./Home.css";
+import {useScript} from "@/hooks";
 
 export const Home = () => {
-  //
+  useScript("/scripts/application-4883631f598d94c7f2d3edfb226db950.js");
 
   return (
     <>
@@ -29,7 +30,11 @@ export const Home = () => {
       </nav>
 
       <header className="header" id="page-header">
-        <img src="/assets/Banner_UEF.png" />
+        <img src="/assets/Banner_UEF.jpg" />
+        <a href="#" className="logo">
+          <img src="/assets/logo_uef.png" />
+        </a>
+        <p className="text-logo">UEF - CONFERENCE</p>
       </header>
 
       <main id="page-content">
