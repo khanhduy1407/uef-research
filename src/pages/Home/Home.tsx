@@ -1,5 +1,5 @@
 import { NetworkMapContainer } from "@/components";
-import "./Home.css";
+import "./Home.scss";
 import {useScript} from "@/hooks";
 
 export const Home = () => {
