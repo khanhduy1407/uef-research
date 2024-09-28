@@ -11,7 +11,6 @@ export default defineConfig({
     extensions: ['.js', '.jsx', '.ts', '.tsx', '.json']
   },
   build: {
-    outDir: 'dist/client',
     minify: true,
     cssMinify: true
   }
