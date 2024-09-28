@@ -29,39 +29,7 @@ export const Home = () => {
       </nav>
 
       <header className="header" id="page-header">
-        <div className="primary with-right-background">
-          <div className="container">
-            <div className="primary-right-background clearfix">
-              <a href="/en/" className="logo">
-                <span className="sr-only">UEF</span>
-                <img src="/assets/headerImage.png" alt="UEF" />
-              </a>
-              <ul className="header-tools">
-                <li className="language-dropdown dropdown">
-                  <button
-                    data-toggle="dropdown"
-                    className="language_btn"
-                    aria-label="Select language"
-                    aria-expanded="false"
-                    data-loaded="true"
-                  >
-                    <i className="icon icon-globe" aria-hidden="true" />
-                  </button>
-                  <div className="dropdown-container">
-                    <ul className="language-selector dropdown-menu">
-                      <li className="selected">
-                        <a href="/en/">English</a>
-                      </li>
-                      <li>
-                        <a href="/zh/">中文</a>
-                      </li>
-                    </ul>
-                  </div>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
+        <img src="/assets/Banner_UEF.png" />
       </header>
 
       <main id="page-content">
