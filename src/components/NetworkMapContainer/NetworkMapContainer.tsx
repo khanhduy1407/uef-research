@@ -118,7 +118,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -126,7 +126,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -134,7 +134,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -147,7 +147,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-67.03401947021484,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -182,7 +182,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -190,7 +190,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -198,7 +198,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -211,7 +211,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-70.62855529785156,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -246,7 +246,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -254,7 +254,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -262,7 +262,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -275,7 +275,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-63.7529411315918,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -310,7 +310,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.015756384595355"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -318,7 +318,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -326,7 +326,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.015756384595356)"
@@ -339,7 +339,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-63.04399108886719,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -374,7 +374,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -382,7 +382,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -390,7 +390,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -403,7 +403,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-63.35158920288086,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -438,7 +438,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.015756384595355"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -446,7 +446,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -454,7 +454,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.015756384595356)"
@@ -467,7 +467,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-90.57574462890625,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -502,7 +502,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.843588872671304"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -510,7 +510,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -518,7 +518,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.843588872671305)"
@@ -531,7 +531,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-62.376060485839844,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -566,7 +566,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.843588872671304"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -574,7 +574,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -582,7 +582,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.843588872671305)"
@@ -595,7 +595,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-64.05175399780273,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -630,7 +630,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -638,7 +638,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -646,7 +646,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -659,7 +659,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-80.79109954833984,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -694,7 +694,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.511943492900826"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -702,7 +702,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -710,7 +710,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.511943492900826)"
@@ -723,7 +723,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-52.878517150878906,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -758,7 +758,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -766,7 +766,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -774,7 +774,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -787,7 +787,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-66.37598037719727,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -822,7 +822,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.251268049175478"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -830,7 +830,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -838,7 +838,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.25126804917548)"
@@ -851,7 +851,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-57.78254699707031,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -886,7 +886,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.015756384595355"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -894,7 +894,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -902,7 +902,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.015756384595356)"
@@ -915,7 +915,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-74.07954406738281,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -950,7 +950,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.843588872671304"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -958,7 +958,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -966,7 +966,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.843588872671305)"
@@ -979,7 +979,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-57.56869888305664,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -1014,7 +1014,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -1022,7 +1022,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -1030,7 +1030,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -1043,7 +1043,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-77.58326721191406,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -1078,7 +1078,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -1086,7 +1086,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -1094,7 +1094,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -1107,7 +1107,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-72.7319564819336,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -1142,7 +1142,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.812090680627604"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -1150,7 +1150,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -1158,7 +1158,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.812090680627605)"
@@ -1171,7 +1171,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-57.1234016418457,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -1206,7 +1206,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.511943492900826"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -1214,7 +1214,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -1222,7 +1222,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.511943492900826)"
@@ -1235,7 +1235,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-59.739479064941406,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -1270,7 +1270,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.32708634884971"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -1278,7 +1278,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: " none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -1286,7 +1286,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.32708634884971)"
@@ -1299,7 +1299,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-76.28548431396484,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -1334,7 +1334,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.155672243479957"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -1342,7 +1342,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -1350,7 +1350,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.155672243479955)"
@@ -1363,7 +1363,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-70.7029037475586,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -1398,7 +1398,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.032258901246612"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -1406,7 +1406,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -1414,7 +1414,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.032258901246614)"
@@ -1427,7 +1427,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-63.881839752197266,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -1462,7 +1462,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.015756384595355"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -1470,7 +1470,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -1478,7 +1478,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.015756384595356)"
@@ -1491,7 +1491,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-52.1519889831543,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -1526,7 +1526,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.110091312838957"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -1534,7 +1534,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -1542,7 +1542,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.110091312838957)"
@@ -1555,7 +1555,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-60.32831573486328,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -1590,7 +1590,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.812090680627604"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -1598,7 +1598,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -1606,7 +1606,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.812090680627605)"
@@ -1619,7 +1619,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-60.39973449707031,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -1654,7 +1654,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -1662,7 +1662,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -1670,7 +1670,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -1683,7 +1683,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-68.05935287475586,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -1718,7 +1718,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.327839739469926"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -1726,7 +1726,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: " none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -1734,7 +1734,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.327839739469926)"
@@ -1747,7 +1747,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-62.58809280395508,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -1782,7 +1782,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -1790,7 +1790,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -1798,7 +1798,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -1811,7 +1811,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-59.523799896240234,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -1846,7 +1846,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -1854,7 +1854,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -1862,7 +1862,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -1875,7 +1875,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-62.09593200683594,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -1910,7 +1910,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.937923800914906"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -1918,7 +1918,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -1926,7 +1926,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.937923800914906)"
@@ -1939,7 +1939,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-70.50552368164062,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -1974,7 +1974,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -1982,7 +1982,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -1990,7 +1990,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -2003,7 +2003,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-77.3606185913086,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -2038,7 +2038,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.812090680627604"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -2046,7 +2046,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -2054,7 +2054,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.812090680627605)"
@@ -2067,7 +2067,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-72.38920593261719,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -2102,7 +2102,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.110091312838957"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -2110,7 +2110,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -2118,7 +2118,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.110091312838957)"
@@ -2131,7 +2131,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-63.914058685302734,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -2166,7 +2166,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -2174,7 +2174,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -2182,7 +2182,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -2195,7 +2195,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-59.247318267822266,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -2230,7 +2230,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.835963044406665"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -2238,7 +2238,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -2246,7 +2246,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.835963044406665)"
@@ -2259,7 +2259,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-64.61129379272461,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -2294,7 +2294,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -2302,7 +2302,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -2310,7 +2310,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -2323,7 +2323,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-62.794986724853516,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -2358,7 +2358,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.015756384595355"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -2366,7 +2366,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -2374,7 +2374,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.015756384595356)"
@@ -2387,7 +2387,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-52.7027473449707,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -2422,7 +2422,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.704496263916976"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -2430,7 +2430,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -2438,7 +2438,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.704496263916976)"
@@ -2451,7 +2451,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-54.01041793823242,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -2486,7 +2486,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.671421312945002"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -2494,7 +2494,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -2502,7 +2502,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.671421312945)"
@@ -2515,7 +2515,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-66.2148551940918,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -2550,7 +2550,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.015756384595355"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -2558,7 +2558,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -2566,7 +2566,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.015756384595356)"
@@ -2579,7 +2579,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-59.15064239501953,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -2614,7 +2614,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -2622,7 +2622,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -2630,7 +2630,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -2643,7 +2643,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-64.25682067871094,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -2678,7 +2678,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.110091312838957"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -2686,7 +2686,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -2694,7 +2694,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.110091312838957)"
@@ -2707,7 +2707,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-67.33282470703125,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -2741,7 +2741,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="14.083143083020214"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -2749,7 +2749,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -2757,7 +2757,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-30.083143083020214)"
@@ -2770,7 +2770,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-19.46135711669922,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -2804,7 +2804,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="13.170383063753007"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -2812,7 +2812,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -2820,7 +2820,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-29.170383063753007)"
@@ -2833,7 +2833,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-19.080795288085938,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -2867,7 +2867,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="13.035309641609977"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -2875,7 +2875,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -2883,7 +2883,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-29.035309641609977)"
@@ -2896,7 +2896,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-17.410551071166992,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -2930,7 +2930,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="12.596561727661182"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -2938,7 +2938,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -2946,7 +2946,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-28.596561727661182)"
@@ -2959,7 +2959,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-45.982303619384766,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -2993,7 +2993,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="12.515756336793107"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -3001,7 +3001,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -3009,7 +3009,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-28.515756336793107)"
@@ -3022,7 +3022,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-21.23308563232422,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -3056,7 +3056,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="12.396539907158845"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -3064,7 +3064,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -3072,7 +3072,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-28.396539907158846)"
@@ -3085,7 +3085,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-27.761804580688477,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -3119,7 +3119,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="12.256695012258369"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -3127,7 +3127,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -3135,7 +3135,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-28.25669501225837)"
@@ -3148,7 +3148,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-15.384520530700684,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -3182,7 +3182,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="12.13168578068743"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -3190,7 +3190,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -3198,7 +3198,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-28.13168578068743)"
@@ -3211,7 +3211,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-18.598750114440918,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -3245,7 +3245,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="11.97338404558845"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -3253,7 +3253,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -3261,7 +3261,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-27.97338404558845)"
@@ -3274,7 +3274,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-50.2576789855957,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -3308,7 +3308,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="11.711574288256964"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -3316,7 +3316,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -3324,7 +3324,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-27.711574288256962)"
@@ -3337,7 +3337,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-100.34645080566406,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -3372,7 +3372,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.051753685100024"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -3380,7 +3380,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -3388,7 +3388,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.051753685100024)"
@@ -3401,7 +3401,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-71.52647399902344,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -3436,7 +3436,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.843588872671304"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -3444,7 +3444,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -3452,7 +3452,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.843588872671305)"
@@ -3465,7 +3465,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-58.63810729980469,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -3500,7 +3500,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.511943492900826"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -3508,7 +3508,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -3516,7 +3516,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.511943492900826)"
@@ -3529,7 +3529,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-48.024654388427734,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -3564,7 +3564,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.015756384595355"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -3572,7 +3572,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -3580,7 +3580,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.015756384595356)"
@@ -3593,7 +3593,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-72.0973129272461,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -3627,7 +3627,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="11.944833490623344"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -3635,7 +3635,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -3643,7 +3643,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-27.944833490623346)"
@@ -3656,7 +3656,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-28.527191162109375,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -3690,7 +3690,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="11.82327344520462"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -3698,7 +3698,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -3706,7 +3706,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-27.82327344520462)"
@@ -3719,7 +3719,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-28.966951370239258,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -3753,7 +3753,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="11.601251934110358"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -3761,7 +3761,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -3769,7 +3769,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-27.60125193411036)"
@@ -3782,7 +3782,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-51.66536331176758,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -3816,7 +3816,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="11.360161189750713"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -3824,7 +3824,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -3832,7 +3832,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-27.360161189750713)"
@@ -3845,7 +3845,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-128.3692626953125,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -3880,7 +3880,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -3888,7 +3888,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -3896,7 +3896,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -3909,7 +3909,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-43.80464172363281,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -3944,7 +3944,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -3952,7 +3952,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -3960,7 +3960,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -3973,7 +3973,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-67.93227767944336,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -4008,7 +4008,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.015756384595355"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -4016,7 +4016,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -4024,7 +4024,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.015756384595356)"
@@ -4037,7 +4037,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-45.08586883544922,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -4072,7 +4072,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.155672243479957"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -4080,7 +4080,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -4088,7 +4088,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.155672243479955)"
@@ -4101,7 +4101,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-45.03935623168945,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -4135,7 +4135,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="11.344342351725683"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -4143,7 +4143,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -4151,7 +4151,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-27.344342351725683)"
@@ -4164,7 +4164,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-26.05776596069336,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -4198,7 +4198,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="11.22732334459982"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -4206,7 +4206,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -4214,7 +4214,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-27.22732334459982)"
@@ -4227,7 +4227,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-29.829559326171875,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -4261,7 +4261,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="11.154918807049253"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -4269,7 +4269,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -4277,7 +4277,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-27.154918807049253)"
@@ -4290,7 +4290,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-64.84089279174805,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -4324,7 +4324,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="11.154918807049253"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -4332,7 +4332,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -4340,7 +4340,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-27.154918807049253)"
@@ -4353,7 +4353,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-21.871583938598633,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -4387,7 +4387,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.995440957128672"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -4395,7 +4395,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -4403,7 +4403,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.99544095712867)"
@@ -4416,7 +4416,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-21.49370574951172,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -4450,7 +4450,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.952006697082588"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -4458,7 +4458,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -4466,7 +4466,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.952006697082588)"
@@ -4479,7 +4479,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-26.34530258178711,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -4513,7 +4513,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.906933025327373"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -4521,7 +4521,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -4529,7 +4529,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.906933025327373)"
@@ -4542,7 +4542,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-18.801716804504395,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -4576,7 +4576,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.883741800181015"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -4584,7 +4584,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -4592,7 +4592,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.883741800181014)"
@@ -4605,7 +4605,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-25.305099487304688,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -4639,7 +4639,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.760507896233278"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -4647,7 +4647,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -4655,7 +4655,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.76050789623328)"
@@ -4668,7 +4668,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-35.20756530761719,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -4702,7 +4702,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.707418687325875"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -4710,7 +4710,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -4718,7 +4718,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.707418687325877)"
@@ -4731,7 +4731,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-33.22078895568848,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -4765,7 +4765,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.707418687325875"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -4773,7 +4773,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -4781,7 +4781,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.707418687325877)"
@@ -4794,7 +4794,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-35.40690612792969,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -4828,7 +4828,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.593588777066802"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -4836,7 +4836,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -4844,7 +4844,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.593588777066802)"
@@ -4857,7 +4857,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-22.353628158569336,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -4891,7 +4891,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.563351548682498"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -4899,7 +4899,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -4907,7 +4907,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.563351548682498)"
@@ -4920,7 +4920,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-33.49124717712402,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -4954,7 +4954,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.532328751992925"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -4962,7 +4962,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -4970,7 +4970,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.532328751992925)"
@@ -4983,7 +4983,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-23.97313117980957,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -5017,7 +5017,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.50047853176352"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -5025,7 +5025,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -5033,7 +5033,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.50047853176352)"
@@ -5046,7 +5046,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-17.67271614074707,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -5080,7 +5080,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.363837147167521"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -5088,7 +5088,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -5096,7 +5096,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.363837147167523)"
@@ -5109,7 +5109,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-29.258716583251953,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -5143,7 +5143,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.32708634884971"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -5151,7 +5151,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -5159,7 +5159,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.32708634884971)"
@@ -5172,7 +5172,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-22.45511245727539,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -5206,7 +5206,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.28916854531161"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -5214,7 +5214,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -5222,7 +5222,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.28916854531161)"
@@ -5235,7 +5235,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-32.08468246459961,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -5269,7 +5269,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.124174209006641"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -5277,7 +5277,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -5285,7 +5285,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.12417420900664)"
@@ -5298,7 +5298,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-25.89285659790039,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -5332,7 +5332,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.079100537251424"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -5340,7 +5340,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -5348,7 +5348,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.079100537251424)"
@@ -5361,7 +5361,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-34.595041275024414,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -5395,7 +5395,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="10.032258901246612"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -5403,7 +5403,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -5411,7 +5411,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-26.032258901246614)"
@@ -5424,7 +5424,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-22.006895065307617,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -5458,7 +5458,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.983504763424074"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -5466,7 +5466,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -5474,7 +5474,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.983504763424072)"
@@ -5487,7 +5487,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-19.040191650390625,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -5521,7 +5521,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.932675366590157"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -5529,7 +5529,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -5537,7 +5537,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.932675366590157)"
@@ -5550,7 +5550,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-33.56329536437988,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -5584,7 +5584,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.932675366590157"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -5592,7 +5592,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -5600,7 +5600,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.932675366590157)"
@@ -5613,7 +5613,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-26.841928482055664,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -5647,7 +5647,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.932675366590157"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -5655,7 +5655,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -5663,7 +5663,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.932675366590157)"
@@ -5676,7 +5676,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-17.97293758392334,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -5710,7 +5710,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.824026897853948"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -5718,7 +5718,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -5726,7 +5726,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.824026897853948)"
@@ -5739,7 +5739,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-23.959264755249023,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -5773,7 +5773,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.765756288990854"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -5781,7 +5781,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -5789,7 +5789,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.765756288990854)"
@@ -5802,7 +5802,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-57.40171813964844,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -5836,7 +5836,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.765756288990854"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -5844,7 +5844,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -5852,7 +5852,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.765756288990854)"
@@ -5865,7 +5865,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-25.75331687927246,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -5899,7 +5899,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.639923211194443"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -5907,7 +5907,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -5915,7 +5915,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.639923211194443)"
@@ -5928,7 +5928,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-42.43876266479492,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -5962,7 +5962,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.639923211194443"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -5970,7 +5970,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -5978,7 +5978,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.639923211194443)"
@@ -5991,7 +5991,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-23.36846160888672,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -6025,7 +6025,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.639923211194443"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -6033,7 +6033,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -6041,7 +6041,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.639923211194443)"
@@ -6054,7 +6054,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-37.25474548339844,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -6088,7 +6088,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.49925380102095"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -6096,7 +6096,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -6104,7 +6104,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.49925380102095)"
@@ -6117,7 +6117,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-28.079299926757812,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -6151,7 +6151,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.42217476331803"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -6159,7 +6159,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -6167,7 +6167,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.42217476331803)"
@@ -6180,7 +6180,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-26.696264266967773,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -6214,7 +6214,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.339775980976775"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -6222,7 +6222,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -6230,7 +6230,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.339775980976775)"
@@ -6243,7 +6243,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-28.738615036010742,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -6277,7 +6277,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.251268049175478"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -6285,7 +6285,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -6293,7 +6293,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.25126804917548)"
@@ -6306,7 +6306,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-24.167640686035156,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -6340,7 +6340,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.155672243479957"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -6348,7 +6348,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -6356,7 +6356,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.155672243479955)"
@@ -6369,7 +6369,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-22.188718795776367,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -6403,7 +6403,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="9.155672243479957"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -6411,7 +6411,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -6419,7 +6419,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-25.155672243479955)"
@@ -6432,7 +6432,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-23.24583625793457,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -6466,7 +6466,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.937923800914906"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -6474,7 +6474,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -6482,7 +6482,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.937923800914906)"
@@ -6495,7 +6495,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-24.70465660095215,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -6529,7 +6529,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.812090680627604"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -6537,7 +6537,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -6545,7 +6545,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.812090680627605)"
@@ -6558,7 +6558,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-22.243688583374023,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -6592,7 +6592,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.812090680627604"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -6600,7 +6600,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -6608,7 +6608,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.812090680627605)"
@@ -6621,7 +6621,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-14.594391822814941,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -6655,7 +6655,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.812090680627604"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -6663,7 +6663,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -6671,7 +6671,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.812090680627605)"
@@ -6684,7 +6684,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-21.659202575683594,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -6718,7 +6718,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.671421312945002"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -6726,7 +6726,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -6734,7 +6734,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.671421312945)"
@@ -6747,7 +6747,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-23.123210906982422,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -6781,7 +6781,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.671421312945002"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -6789,7 +6789,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -6797,7 +6797,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.671421312945)"
@@ -6810,7 +6810,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-25.343154907226562,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -6844,7 +6844,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.511943492900826"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -6852,7 +6852,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -6860,7 +6860,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.511943492900826)"
@@ -6873,7 +6873,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-28.47222137451172,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -6907,7 +6907,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.511943492900826"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -6915,7 +6915,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -6923,7 +6923,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.511943492900826)"
@@ -6936,7 +6936,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-21.10200309753418,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -6970,7 +6970,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.327839739469926"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -6978,7 +6978,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -6986,7 +6986,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.327839739469926)"
@@ -6999,7 +6999,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-25.19624900817871,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -7033,7 +7033,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.327839739469926"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -7041,7 +7041,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -7049,7 +7049,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.327839739469926)"
@@ -7062,7 +7062,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-21.56290626525879,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -7096,7 +7096,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.327839739469926"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -7104,7 +7104,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -7112,7 +7112,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.327839739469926)"
@@ -7125,7 +7125,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-32.38355255126953,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -7159,7 +7159,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.327839739469926"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -7167,7 +7167,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -7175,7 +7175,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.327839739469926)"
@@ -7188,7 +7188,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-27.50813102722168,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -7222,7 +7222,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.327839739469926"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -7230,7 +7230,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -7238,7 +7238,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.327839739469926)"
@@ -7251,7 +7251,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-18.839165687561035,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -7285,7 +7285,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.327839739469926"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -7293,7 +7293,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -7301,7 +7301,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.327839739469926)"
@@ -7314,7 +7314,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-20.18019676208496,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -7348,7 +7348,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.110091312838957"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -7356,7 +7356,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -7364,7 +7364,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.110091312838957)"
@@ -7377,7 +7377,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-25.51229476928711,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -7411,7 +7411,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.110091312838957"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -7419,7 +7419,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -7427,7 +7427,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.110091312838957)"
@@ -7440,7 +7440,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-19.524784088134766,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -7474,7 +7474,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.110091312838957"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -7482,7 +7482,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -7490,7 +7490,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.110091312838957)"
@@ -7503,7 +7503,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-19.203420639038086,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -7537,7 +7537,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.110091312838957"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -7545,7 +7545,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -7553,7 +7553,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.110091312838957)"
@@ -7566,7 +7566,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-26.48906898498535,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -7600,7 +7600,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="8.110091312838957"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -7608,7 +7608,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -7616,7 +7616,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-24.110091312838957)"
@@ -7629,7 +7629,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-24.569345474243164,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -7663,7 +7663,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.843588872671304"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -7671,7 +7671,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -7679,7 +7679,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.843588872671305)"
@@ -7692,7 +7692,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-51.97404098510742,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -7726,7 +7726,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.843588872671304"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -7734,7 +7734,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -7742,7 +7742,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.843588872671305)"
@@ -7755,7 +7755,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-24.480548858642578,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -7789,7 +7789,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.843588872671304"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -7797,7 +7797,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -7805,7 +7805,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.843588872671305)"
@@ -7818,7 +7818,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-36.20985794067383,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -7852,7 +7852,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.843588872671304"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -7860,7 +7860,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -7868,7 +7868,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.843588872671305)"
@@ -7881,7 +7881,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-24.281810760498047,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -7915,7 +7915,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.843588872671304"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -7923,7 +7923,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -7931,7 +7931,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.843588872671305)"
@@ -7944,7 +7944,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-22.61156463623047,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -7978,7 +7978,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -7986,7 +7986,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -7994,7 +7994,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -8007,7 +8007,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-25.97742462158203,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -8041,7 +8041,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -8049,7 +8049,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -8057,7 +8057,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -8070,7 +8070,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-23.310731887817383,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -8104,7 +8104,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -8112,7 +8112,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -8120,7 +8120,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -8133,7 +8133,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-17.791112899780273,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -8167,7 +8167,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -8175,7 +8175,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -8183,7 +8183,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -8196,7 +8196,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-22.051036834716797,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -8230,7 +8230,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -8238,7 +8238,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -8246,7 +8246,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -8259,7 +8259,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-25.305099487304688,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -8293,7 +8293,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -8301,7 +8301,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -8309,7 +8309,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -8322,7 +8322,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-21.055490493774414,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -8356,7 +8356,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -8364,7 +8364,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -8372,7 +8372,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -8385,7 +8385,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-24.20992660522461,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -8419,7 +8419,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -8427,7 +8427,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -8435,7 +8435,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -8448,7 +8448,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-22.641164779663086,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -8482,7 +8482,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -8490,7 +8490,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -8498,7 +8498,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -8511,7 +8511,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-26.218448638916016,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -8545,7 +8545,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -8553,7 +8553,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -8561,7 +8561,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -8574,7 +8574,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-27.994403839111328,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -8608,7 +8608,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -8616,7 +8616,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -8624,7 +8624,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -8637,7 +8637,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-19.495184898376465,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -8671,7 +8671,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -8679,7 +8679,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -8687,7 +8687,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -8700,7 +8700,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-16.235036849975586,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -8734,7 +8734,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -8742,7 +8742,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -8750,7 +8750,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -8763,7 +8763,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-20.46350383758545,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -8797,7 +8797,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.500007251393978"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -8805,7 +8805,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -8813,7 +8813,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.500007251393978)"
@@ -8826,7 +8826,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-30.768278121948242,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -8860,7 +8860,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.015756384595355"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -8868,7 +8868,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -8876,7 +8876,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.015756384595356)"
@@ -8889,7 +8889,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-30.573768615722656,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -8923,7 +8923,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.015756384595355"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -8931,7 +8931,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -8939,7 +8939,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.015756384595356)"
@@ -8952,7 +8952,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-30.39617347717285,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -8986,7 +8986,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.015756384595355"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -8994,7 +8994,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -9002,7 +9002,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.015756384595356)"
@@ -9015,7 +9015,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-31.605514526367188,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -9049,7 +9049,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.015756384595355"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -9057,7 +9057,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -9065,7 +9065,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.015756384595356)"
@@ -9078,7 +9078,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-22.480484008789062,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -9112,7 +9112,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.015756384595355"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -9120,7 +9120,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -9128,7 +9128,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.015756384595356)"
@@ -9141,7 +9141,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-28.582792282104492,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -9175,7 +9175,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.015756384595355"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -9183,7 +9183,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -9191,7 +9191,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.015756384595356)"
@@ -9204,7 +9204,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-26.011253356933594,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -9238,7 +9238,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.015756384595355"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -9246,7 +9246,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -9254,7 +9254,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.015756384595356)"
@@ -9267,7 +9267,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-29.2164306640625,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -9301,7 +9301,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.015756384595355"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -9309,7 +9309,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -9317,7 +9317,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.015756384595356)"
@@ -9330,7 +9330,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-87.32615661621094,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -9364,7 +9364,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="7.015756384595355"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -9372,7 +9372,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -9380,7 +9380,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-23.015756384595356)"
@@ -9393,7 +9393,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-22.12529182434082,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -9427,7 +9427,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -9435,7 +9435,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -9443,7 +9443,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -9456,7 +9456,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-34.45127296447754,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -9490,7 +9490,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -9498,7 +9498,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -9506,7 +9506,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -9519,7 +9519,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-23.29657745361328,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -9553,7 +9553,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -9561,7 +9561,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -9569,7 +9569,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -9582,7 +9582,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-76.64397430419922,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -9616,7 +9616,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -9624,7 +9624,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -9632,7 +9632,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -9645,7 +9645,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-30.827476501464844,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -9679,7 +9679,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -9687,7 +9687,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -9695,7 +9695,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -9708,7 +9708,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-54.95079803466797,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -9742,7 +9742,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -9750,7 +9750,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -9758,7 +9758,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -9771,7 +9771,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-26.675662994384766,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -9805,7 +9805,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -9813,7 +9813,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -9821,7 +9821,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -9834,7 +9834,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-23.60102653503418,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -9868,7 +9868,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -9876,7 +9876,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -9884,7 +9884,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -9897,7 +9897,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-100.86534881591797,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -9931,7 +9931,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -9939,7 +9939,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -9947,7 +9947,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -9960,7 +9960,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-17.769970893859863,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -9994,7 +9994,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -10002,7 +10002,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -10010,7 +10010,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -10023,7 +10023,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-24.81459617614746,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -10057,7 +10057,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -10065,7 +10065,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -10073,7 +10073,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -10086,7 +10086,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-57.55221176147461,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -10120,7 +10120,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -10128,7 +10128,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -10136,7 +10136,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -10149,7 +10149,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-115.68584442138672,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -10183,7 +10183,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -10191,7 +10191,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -10199,7 +10199,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -10212,7 +10212,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-18.810173988342285,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -10246,7 +10246,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -10254,7 +10254,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -10262,7 +10262,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -10275,7 +10275,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-22.41282844543457,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -10309,7 +10309,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -10317,7 +10317,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -10325,7 +10325,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -10338,7 +10338,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-33.318044662475586,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -10372,7 +10372,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -10380,7 +10380,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -10388,7 +10388,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -10401,7 +10401,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-49.27043151855469,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -10435,7 +10435,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -10443,7 +10443,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -10451,7 +10451,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -10464,7 +10464,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-24.125356674194336,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -10498,7 +10498,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="6.187923896519407"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -10506,7 +10506,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "none" }}
                   width="35"
@@ -10514,7 +10514,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g
                   className="text-box"
                   transform="translate(0,-22.187923896519408)"
@@ -10527,7 +10527,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-26.29117774963379,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
@@ -10561,7 +10561,7 @@ export const NetworkMapContainer = () => {
                   }}
                   r="15"
                   data-loaded="true"
-                ></circle>
+                />
                 <foreignObject
                   width="360px"
                   height="600"
@@ -10569,7 +10569,7 @@ export const NetworkMapContainer = () => {
                   y="25"
                   className="collaboration-map-popup-container"
                   style={{ display: "none" }}
-                ></foreignObject>
+                />
                 <foreignObject
                   style={{ display: "block" }}
                   width="35"
@@ -10577,7 +10577,7 @@ export const NetworkMapContainer = () => {
                   x="-15"
                   y="-18"
                   className="collaboration-map-home-icon"
-                ></foreignObject>
+                />
                 <g className="text-box" transform="translate(0,-31)">
                   <rect
                     className="country-background"
@@ -10587,7 +10587,7 @@ export const NetworkMapContainer = () => {
                     transform="translate(-22.10837745666504,-16.237314224243164)"
                     rx="5"
                     ry="5"
-                  ></rect>
+                  />
                   <text
                     className="country-label"
                     dy=""
