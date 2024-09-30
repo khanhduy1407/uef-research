@@ -1665,17 +1665,18 @@ html.nexus-font-support body.edge .concept-badge-small .concept {
 }
 
 .concept-badge-large .concept-wrapper {
-    display: block;
+    display: flex; /* Use flexbox for alignment */
+    align-items: center; /* Vertically center the items */
     padding: 5px 5px 1px 10px;
     position: relative;
-    white-space: nowrap;
+    //white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
     outline-style: none
 }
 
 .concept-badge-large .rank {
-    float: left;
+    display: inline-block;
     margin-right: 10px;
     margin-top: 3px
 }
