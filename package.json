@@ -18,6 +18,7 @@
     "sass": "^1.79.4"
   },
   "devDependencies": {
+    "@lahmjs/plugin-basic-ssl": "^1.1.0",
     "@lahmjs/plugin-react": "^4.0.1",
     "@types/node": "^22.6.1",
     "@types/react": "^18.2.18",

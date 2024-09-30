@@ -1,4 +1,5 @@
 import { NetworkMapContainer } from "./NetworkMapContainer";
+import '@/default.scss'
 import "./Home.scss";
 
 export const Home = () => {
