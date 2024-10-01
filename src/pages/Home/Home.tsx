@@ -1,9 +1,15 @@
 import { NetworkMapContainer } from "./NetworkMapContainer";
 import '@/default.scss'
 import "./Home.scss";
+import {removeFromLocalStorage} from "@/utils/local-storage";
 
 export const Home = () => {
   //
+
+  const handleLogout = () => {
+    removeFromLocalStorage("isLoggedIn");
+    window.location.reload();
+  }
 
   return (
     <div className="homePage">
@@ -34,8 +40,8 @@ export const Home = () => {
         <a href="#" className="logo-left">
           <img src="/assets/logo_uef_left.jpg" />
         </a>
-        <img src="/assets/logo_uef_right.jpg" className="logo-right" />
         <p className="text-logo">Ho Chi Minh City <br/> University of Economics and Finance</p>
+        <img src="/assets/logo_uef_right.jpg" className="logo-right" onClick={handleLogout} style={{ cursor: "pointer" }} />
       </header>
 
       <main id="page-content">
