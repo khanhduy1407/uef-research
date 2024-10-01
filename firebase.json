@@ -6,6 +6,13 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "//": "điều này hoạt động cho react router `BrowserRouter`",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
     ]
   }
 }
