@@ -1,5 +1,3 @@
-import "./Home.scss";
-
 export const NetworkMapContainer = () => {
   //
 

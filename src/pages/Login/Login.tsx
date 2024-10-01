@@ -22,7 +22,7 @@ export const Login = () => {
   }
 
   return (
-    <>
+    <div className="loginPage">
       <div id="wb-head">
         <div id="wb-head-in">
 
@@ -229,6 +229,6 @@ export const Login = () => {
           </footer>
         </div>
       </div>
-    </>
+    </div>
   )
 }

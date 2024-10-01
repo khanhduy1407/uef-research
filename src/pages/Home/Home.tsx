@@ -6,7 +6,7 @@ export const Home = () => {
   //
 
   return (
-    <>
+    <div className="homePage">
       <div id="aria-polite" aria-live="polite" />
       <div id="aria-assertive" aria-live="assertive" />
       <nav aria-label="Skip to content" className="skip-content">
@@ -954,6 +954,6 @@ export const Home = () => {
           </a>
         </div>
       </footer>
-    </>
+    </div>
   );
 };
