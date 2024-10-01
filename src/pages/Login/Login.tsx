@@ -2,9 +2,24 @@ import "./Login.scss";
 import "./Login2.scss";
 import "./Login3.scss";
 import "./LoginMobile.scss";
+import {useState} from "react";
+import {saveToLocalStorage} from "@/utils/local-storage";
 
 export const Login = () => {
-  //
+  const [username, setUsername] = useState("");
+  const [password, setPassword] = useState("");
+
+  const handleLogin = () => {
+    if (username == "" || password == "") {
+      alert("Vui lòng nhập đầy đủ thông tin")
+    } else if (username == "user" && password == "123456") {
+      alert("Đăng nhập thành công");
+      saveToLocalStorage("isLoggedIn", true);
+      window.location.reload();
+    } else {
+      alert("Thông tin đăng nhập không chính xác.")
+    }
+  }
 
   return (
     <>
@@ -98,17 +113,14 @@ export const Login = () => {
                   </div>
 
                   <label htmlFor="ctl00_cphMainContent_lgnSiteLogin_UserName"
-                         id="cphMainContent_lgnSiteLogin_lblUserName">Email:</label>
+                         id="cphMainContent_lgnSiteLogin_lblUserName">Username:</label>
                   <span id="cphMainContent_lgnSiteLogin_UserNameRequired" className="color-attention"
                         style={{visibility:"hidden"}}>*</span><br/>
                   <span id="ctl00_cphMainContent_lgnSiteLogin_UserName_wrapper"
                         className="riSingle RadInput RadInput_Default" style={{width:"160px"}}><input
                   id="ctl00_cphMainContent_lgnSiteLogin_UserName" name="ctl00$cphMainContent$lgnSiteLogin$UserName"
-                  size={20} className="riTextBox riEnabled width-90" required placeholder="Email" type="text"
-                  value="" /><input id="ctl00_cphMainContent_lgnSiteLogin_UserName_ClientState"
-                                  name="ctl00_cphMainContent_lgnSiteLogin_UserName_ClientState" type="hidden"
-                                  autoComplete="off"
-                                  value="{&quot;enabled&quot;:true,&quot;emptyMessage&quot;:&quot;&quot;,&quot;validationText&quot;:&quot;&quot;,&quot;valueAsString&quot;:&quot;&quot;,&quot;lastSetTextBoxValue&quot;:&quot;&quot;}" /></span>
+                  size={20} className="riTextBox riEnabled width-90" required placeholder="Username" type="text"
+                  value={username} onChange={(e) => setUsername(e.target.value)} /></span>
                   <label htmlFor="ctl00_cphMainContent_lgnSiteLogin_Password"
                          id="cphMainContent_lgnSiteLogin_lblPassword">Password:</label>
                   <span id="cphMainContent_lgnSiteLogin_PasswordRequired" className="color-attention"
@@ -117,17 +129,14 @@ export const Login = () => {
                         className="riSingle RadInput RadInput_Default" style={{width:"160px"}}><input
                     id="ctl00_cphMainContent_lgnSiteLogin_Password" name="ctl00$cphMainContent$lgnSiteLogin$Password"
                     size={20} className="riTextBox riEnabled width-60" required placeholder="Password"
-                    type="password" autoComplete="off" /><input
-                    id="ctl00_cphMainContent_lgnSiteLogin_Password_ClientState"
-                    name="ctl00_cphMainContent_lgnSiteLogin_Password_ClientState" type="hidden" autoComplete="off"
-                    value="{&quot;enabled&quot;:true,&quot;emptyMessage&quot;:&quot;&quot;,&quot;validationText&quot;:&quot;&quot;,&quot;valueAsString&quot;:&quot;&quot;,&quot;lastSetTextBoxValue&quot;:&quot;&quot;}" /></span>
+                    type="password" autoComplete="off" value={password} onChange={(e) => setPassword(e.target.value)} /></span>
 
 
                   <div className="margin-top-medium">
 
                     <span id="ctl00_cphMainContent_lgnSiteLogin_btnLogin"
                           className="RadButton RadButton_Default rbLinkButton rbRounded button button-accent"
-                          onClick={() => {}} tabIndex={0}><span>Sign In</span><input
+                          onClick={handleLogin} tabIndex={0}><span>Sign In</span><input
                       id="ctl00_cphMainContent_lgnSiteLogin_btnLogin_ClientState"
                       name="ctl00_cphMainContent_lgnSiteLogin_btnLogin_ClientState" type="hidden" autoComplete="off"
                       value="{&quot;text&quot;:&quot;Sign In&quot;,&quot;value&quot;:&quot;&quot;,&quot;checked&quot;:false,&quot;target&quot;:&quot;&quot;,&quot;navigateUrl&quot;:&quot;&quot;,&quot;commandName&quot;:&quot;Login&quot;,&quot;commandArgument&quot;:&quot;&quot;,&quot;autoPostBack&quot;:true,&quot;selectedToggleStateIndex&quot;:0,&quot;validationGroup&quot;:null,&quot;readOnly&quot;:false,&quot;primary&quot;:false,&quot;enabled&quot;:true}" /></span>
