@@ -30,11 +30,12 @@ export const Home = () => {
       </nav>
 
       <header className="header" id="page-header">
-        <img src="/assets/Banner_UEF.jpg" />
-        <a href="#" className="logo">
-          <img src="/assets/logo_uef.png" />
+        <img src="/assets/Banner_UEF.jpg" className="noimg" />
+        <a href="#" className="logo-left">
+          <img src="/assets/logo_uef_left.jpg" />
         </a>
-        <p className="text-logo">UEF - CONFERENCE</p>
+        <img src="/assets/logo_uef_right.jpg" className="logo-right" />
+        <p className="text-logo">Ho Chi Minh City <br/> University of Economics and Finance</p>
       </header>
 
       <main id="page-content">
